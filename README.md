@@ -18,7 +18,7 @@ This repository contains the evidence.
 
 ## Read the Essay
 
-**📄 [Download PDF](https://github.com/adrianwedd/before-the-words-existed/releases/latest/download/Before-the-Words-Existed.pdf)** | **📝 [Read Online](https://github.com/adrianwedd/before-the-words-existed/blob/main/drafts/Before%20the%20Words%20Existed%20-%20Neuromancer%20and%20the%20Experience%20of%20Cognitive%20Mismatch.md)** | **[Latest Release](https://github.com/adrianwedd/before-the-words-existed/releases/latest)**
+**📄 [Download PDF](https://github.com/adrianwedd/before-the-words-existed/releases/latest/download/Before-the-Words-Existed.pdf)** | **🌐 [Read Online](https://adrianwedd.github.io/before-the-words-existed/)** | **[Latest Release](https://github.com/adrianwedd/before-the-words-existed/releases/latest)**
 
 ---
 
@@ -189,7 +189,7 @@ If you use this work:
 
 ```
 "Before the Words Existed: Neuromancer and the Experience of Cognitive Mismatch"
-Research repository: https://github.com/[username]/neuromancer-mismatch
+https://github.com/adrianwedd/before-the-words-existed
 2026
 ```
 
