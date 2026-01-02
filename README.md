@@ -2,11 +2,27 @@
 
 ## Project Status
 
-**Phase 1: COMPLETE** ✓
-**Phase 2: COMPLETE** ✓
+**Phase 1: COMPLETE** ✓ (First pass — second pass planned)
+**Phase 2: COMPLETE** ✓ (First pass — second pass planned)
 **Phase 3: Pending (Track C preparation)**
 
-**Track B research is complete. Ready to draft essay.**
+**Track B research complete. Second-pass trawl in progress for Track C depth.**
+
+---
+
+## Second Pass: Target Coverage
+
+First pass established patterns. Second pass aims for exhaustive coverage.
+
+| Task | First Pass | Target | Priority |
+|------|------------|--------|----------|
+| 1.1 Deprivation | 18 entries | 25-30 | Medium (good base) |
+| 1.2 Sharp Memory | 8 entries | 15-20 | **High (thin)** |
+| 2.1 Time | 15 entries | 25-35 | High |
+| 2.2 Addiction | 9 entries | 12-15 | Low (near-complete) |
+| 2.3 Environment | 9 entries | 18-25 | High |
+
+See `second-pass-trawl-protocol.md` for keyword lists, chapter audits, and methodology.
 
 ---
 
@@ -300,6 +316,7 @@ Phase 1: COMPLETE ✓
 | `task-3.3-historical-context.md` | Pending | 1984 absence documentation |
 | `methodological-posture.md` | Reference | Pressure-tested methods statement |
 | `reference/dsm-history-1980.md` | Reference | DSM-III timeline for Task 3.3 |
+| `second-pass-trawl-protocol.md` | **ACTIVE** | Systematic second-pass instructions |
 
 ---
 
