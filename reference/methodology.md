@@ -1,6 +1,6 @@
 # Methodological Posture
 
-## For: "Before the Words Existed: Neuromancer and the Phenomenology of Cognitive Mismatch"
+## For: "Before the Words Existed: Neuromancer and the Experience of Cognitive Mismatch"
 
 ---
 
@@ -8,9 +8,9 @@
 
 This analysis does not claim perceptual neutrality. It begins from recognition: the experience of reading *Neuromancer* and finding something that resonates with contemporary accounts of cognitive-environment mismatch—specifically, though not exclusively, those articulated in ADHD phenomenology. This recognition names a point of entry, not a governing explanation.
 
-Phenomenology has never required the analyst to see from nowhere. What it requires is disciplined attention to the phenomenon itself, structured opportunities for the text to resist interpretation, and transparency about the lens through which attention is directed. This analysis attempts all three.
+Phenomenology has never required the analyst to see from nowhere. What it requires is disciplined attention to the phenomenon itself, structured opportunities for the text to resist interpretation, and transparency about the lens through which attention is directed. This analysis attempts all three, while treating its method as experiential-structural rather than strict Husserlian reduction.
 
-The lens here is not "ADHD as diagnostic category" but "mismatch as experiential structure": a pattern of relation between cognition and environment that must be rendered in the text itself to hold. That structure is testable against the text. The research framework explicitly operationalises falsification: if the deprivation state shows engagement rather than flatness, if memory degrades rather than sharpens, if restoration reads as intoxication rather than homecoming, the reading fails.
+The lens here is not "ADHD as diagnostic category" but "mismatch as experiential structure": a pattern of relation between cognition and environment that must be rendered in the text itself to hold. That structure is testable against the text. The research framework explicitly operationalizes falsification: if the deprivation state shows engagement rather than flatness, if memory degrades rather than sharpens, if restoration reads as intoxication rather than homecoming, the reading fails.
 
 What this analysis does *not* do is bracket lived experience as contamination. Following critical phenomenology (and Merleau-Ponty's insistence that perception is always embodied and situated), it treats experiential recognition as a legitimate heuristic—one that must be tested, not erased. The discipline lies in testing.
 
@@ -20,13 +20,13 @@ The question is not whether the analyst arrived with a perspective. All analysts
 
 ## What This Defends Against
 
-### The Phenomenology Purist Objection
+### The Method Purist Objection
 
 **Their charge:** "Your method fails before your evidence matters. ADHD is doing interpretive work before description is finished. Your bracketing is illusory."
 
 **Why this posture answers it:**
 
-1. **We don't claim pure epoché.** We claim *accountable situatedness*. The distinction between Husserlian neutrality and critical phenomenology is explicit.
+1. **We don't claim pure epoché.** We claim *accountable situatedness*. The distinction between Husserlian neutrality and critical phenomenology is explicit, and the method is framed as experiential-structural rather than disciplinary phenomenology.
 
 2. **Recognition ≠ determination.** The insight came from somewhere (lived experience). That's honest. But the insight doesn't get to adjudicate the findings—the text does.
 
@@ -64,7 +64,7 @@ Full version, possibly expanded with citations to:
 - Sara Ahmed on critical phenomenology
 - Linda Martín Alcoff on situated knowledge
 
-Position explicitly against pure Husserlian epoché claims.
+Position explicitly against pure Husserlian epoché claims while naming the method as experiential-structural.
 
 ---
 
@@ -72,7 +72,7 @@ Position explicitly against pure Husserlian epoché claims.
 
 If challenged:
 
-> "Lived experience is not a contaminant in phenomenology; it is a lens. The discipline lies in testing, not erasing, that lens."
+> "Lived experience is not a contaminant; it is a lens. The discipline lies in testing, not erasing, that lens."
 
 This position is defensible, current in phenomenological scholarship, and honest about how insight actually works.
 
