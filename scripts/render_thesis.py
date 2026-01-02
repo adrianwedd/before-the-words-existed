@@ -37,9 +37,9 @@ def render_html(markdown_path: Path, html_path: Path) -> None:
   <style>
 :root {{
   --bg: #0a0a0a;
-  --text: #e0e0e0;
+  --text: #f2f2f2;
   --accent: #00ff00;
-  --muted: #666;
+  --muted: #8a8a8a;
   --highlight: #141414;
 }}
 * {{ box-sizing: border-box; }}
@@ -54,7 +54,7 @@ body {{
 main {{
   max-width: 900px;
   margin: 0 auto;
-  padding: 2.5rem 2rem 4rem;
+  padding: 2.75rem 2.5rem 4.25rem;
 }}
 header {{
   border-bottom: 1px solid var(--accent);
@@ -73,7 +73,7 @@ nav {{
 a {{ color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; }}
 a:hover {{ border-bottom-color: var(--accent); }}
 
-h1, h2, h3, h4 {{ color: var(--accent); font-weight: 400; }}
+h1, h2, h3, h4 {{ color: var(--accent); font-weight: 500; }}
 h1 {{ font-size: 2rem; }}
 h2 {{ font-size: 1.5rem; margin-top: 2rem; }}
 h3 {{ font-size: 1.2rem; margin-top: 1.5rem; }}
@@ -101,6 +101,7 @@ hr {{ border: none; border-top: 1px solid var(--muted); margin: 2rem 0; }}
 @media print {{
   nav {{ display: none; }}
   html, body {{ background: var(--bg); }}
+  main {{ padding: 2.5rem 2.5rem 3.5rem; }}
 }}
 
 @page {{
