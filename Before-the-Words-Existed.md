@@ -1,5 +1,7 @@
 # Before the Words Existed: Neuromancer and the Experience of Cognitive Mismatch
 
+Adrian Wedd
+
 ## 1. Introduction
 
 This essay argues that *Neuromancer* encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation. The claim is not diagnostic. It is structural: Case's cognition coheres in one interface and collapses in another, and the text renders that shift with procedural precision. In 1984, the language for adult cognitive mismatch was scattered across psychiatry, technostress, and hacker subculture. Gibson does not name the structure; he builds it. The novel renders the matrix as a mode of cognition, not just a setting -- a space where Case's attention finally has traction.

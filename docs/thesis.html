@@ -13,6 +13,7 @@
   --highlight: #141414;
 }
 * { box-sizing: border-box; }
+html { background: var(--bg); }
 body {
   margin: 0;
   background: var(--bg);
@@ -65,6 +66,15 @@ pre {
   padding: 1rem;
 }
 hr { border: none; border-top: 1px solid var(--muted); margin: 2rem 0; }
+
+@media print {
+  nav { display: none; }
+  html, body { background: var(--bg); }
+}
+
+@page {
+  margin: 0;
+}
 </style>
 </head>
 <body>
@@ -78,6 +88,7 @@ hr { border: none; border-top: 1px solid var(--muted); margin: 2rem 0; }
       <a href="Before-the-Words-Existed.pdf">Download PDF</a>
     </nav>
     <h1>Before the Words Existed: Neuromancer and the Experience of Cognitive Mismatch</h1>
+<p>Adrian Wedd</p>
 <h2>1. Introduction</h2>
 <p>This essay argues that <em>Neuromancer</em> encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation. The claim is not diagnostic. It is structural: Case's cognition coheres in one interface and collapses in another, and the text renders that shift with procedural precision. In 1984, the language for adult cognitive mismatch was scattered across psychiatry, technostress, and hacker subculture. Gibson does not name the structure; he builds it. The novel renders the matrix as a mode of cognition, not just a setting -- a space where Case's attention finally has traction.</p>
 <p>The essay adds historical framing, explicit methodology, a body/embodiment section, a comparative experiential section (Case and Molly), a critical genealogy in early criticism, and a parallel case in Philip K. Dick. The core structure remains: deprivation as attritional flattening, sharp memory as domain-specific precision, time as state-dependent, addiction as a separate cycle from access-dependency, and environment as affordance rather than essence.</p>
