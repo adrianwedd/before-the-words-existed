@@ -155,6 +155,13 @@ Evidence weight: N and FI are strong; D is weaker (may reflect speaker's framewo
 | 1.1-E16 | BL | "The body was meat. Case fell into the prison of his own flesh." | Ch.1, early backstory | N | Supported | Body as burden, not lived-in home. |
 | 1.1-E17 | BL | "Wake alone in the dark, curled in his capsule... hands clawed into the bedslab." | Ch.1, early deprivation recap | N | Supported | Body appears as cramped luggage casing him. |
 | 1.1-E18 | BL | "All the meat, he thought, and all it wants." | Ch.1, Jarre de The (Linda scene) | FI | Supported | Embodiment framed as insistent demand rather than agency. |
+| 1.1-E19 | AF | "Numb... He'd been numb a long time, years. All his nights down Ninsei..." | Ch.12, Freeside bar recollection | N | Supported | Later recall affirms long-term flatness. |
+| 1.1-E20 | BL | "The operation hadn't worked. He was still here, still meat..." | Ch.2, arena pre-restoration | N | Supported | Body-as-meat returns under failed-cure fear. |
+| 1.1-E21 | PA | "The fear began to knot... A cold trickle of sweat..." | Ch.2, arena pre-restoration | N | Supported | Hyperarousal without outlet. |
+| 1.1-E22 | TR | "The operation hadn't worked... It was all some dream, some pathetic fantasy..." | Ch.2, arena pre-restoration | N | Supported | Tractionlessness: plan collapses. |
+| 1.1-E23 | AF | "Case walked on, feeling nothing." | Ch.2, arena aftermath | N | Supported | Affect muted amid violence. |
+| 1.1-E24 | TA | "fitful stillness... futility and repetition soon to wake again." | Ch.17, Straylight memory | N | Complicated | Temporal texture of repetition appears outside Chiba. |
+| 1.1-E25 | BL | "simstim... a meat toy... multiplication of flesh input." | Ch.4, simstim setup | FI | Supported | Body as excess input, not home. |
 
 ---
 
@@ -165,6 +172,7 @@ Evidence weight: N and FI are strong; D is weaker (may reflect speaker's framewo
 | 1.1-X01 | Ch.1, Ninsei walk | Tactical calculation about Wage: "He knew Wage hadn't liked that... Wage was his primary supplier... had managed to trace something back." | Engagement / tactical calculation | N/FI | No | Shows competence still online; fits mismatch model as intermittent skill use without systemic access. |
 | 1.1-X02 | Ch.1, Ninsei walk | Sharp observational inference about sarariman tattoo and implants: "If that's for real... gear like that would get you rolled..." | Coherence / expertise | N/FI | No | Demonstrates environmental parsing despite deprivation; suggests partial coherence in specific domains. |
 | 1.1-X03 | Ch.1, shop window | Decisive action: "Time to see old Julie. He'll know." | Engagement / purpose | N/FI | No | Purpose appears episodically; does not erase chronic tractionlessness. |
+| 1.1-X04 | Ch.2, arena | Future-pull anticipation: "Seven days and he'd jack in. If he closed his eyes now, he'd see the matrix." | Engagement / anticipation | N/FI | No | Shows future orientation persists pre-restoration. |
 
 ---
 
@@ -219,6 +227,10 @@ Elements to add:
 
 Counterexamples to acknowledge in prose:
 - Wage calculation, sarariman implant inference, and the decisive "Time to see old Julie" moment as evidence of episodic engagement within deprivation.
+
+## Second-Pass Note
+
+Patterns did not shift; they deepened. Later chapters echo the deprivation profile (numbness, meat-body framing, traction failures) while also adding a clear pre-restoration anticipation moment, reinforcing the need to qualify flatness with intermittent future-pull.
 
 ---
 
