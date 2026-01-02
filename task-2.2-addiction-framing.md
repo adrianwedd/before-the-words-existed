@@ -118,9 +118,15 @@ This is the critical test. If restoration reads as "getting high," the addiction
 
 | ID | Location | Term Used | Speaker | Context | Voice (N/FI/D) | Tone | Supported by Case's Experience? | Notes |
 |----|----------|-----------|---------|---------|----------------|------|--------------------------------|-------|
-| 2.2-E01 | | | | | | | | |
-| 2.2-E02 | | | | | | | | |
-| [Add rows as needed] | | | | | | | | |
+| 2.2-E01 | Ch.1 (Linda in arcade) | "armature of addiction" | Narrator | Linda's drug need described | N | Clinical | Indirect | Applies to Linda, not Case. |
+| 2.2-E02 | Ch.1 (Deane foyer) | "clean" | Deane | Comments on Case's state | D | Neutral/medical | Unclear | External label. |
+| 2.2-E03 | Ch.1 (Chatsubo) | "addicted" | Narrator | Zone's hypnotic dependence | N | Neutral | Indirect | Not about Case. |
+| 2.2-E04 | Ch.7 (post-repair) | "dangerous dependency" | Armitage | Pancreas/treatment framing | D | Clinical/controlling | Contradicted | Dependency framed as leverage. |
+| 2.2-E05 | Ch.7 (post-repair) | "dependency" | Case | "I was enjoying that dependency." | D | Ironic | Complicated | Self-aware, not shame. |
+| 2.2-E06 | Ch.10 (Freeside) | "drug addict" | Case | Tells Cath his status | D | Matter-of-fact | Mixed | Self-label tied to stimulants. |
+| 2.2-E07 | Ch.10 (Freeside) | "get a fix" | Flatline | Needs records access | D | Neutral | Indirect | "Fix" used for data access. |
+| 2.2-E08 | Ch.12 (Wintermute/Zone) | "addiction" | Narrator | Zone image: "slow undersea grace of his addiction" | N | Descriptive | Indirect | Addiction as motion style. |
+| 2.2-E09 | Ch.10 (Freeside) | "buzz/high" | Case | "I wanna buzz... get high" | D | Hedonic | Supports | Strong addiction-coded desire. |
 
 ---
 
@@ -128,10 +134,11 @@ This is the critical test. If restoration reads as "getting high," the addiction
 
 | Location | What Case Wants | How He Describes It | Cyclical or Persistent? | Pleasure or Function? | Notes |
 |----------|-----------------|--------------------|-----------------------|----------------------|-------|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| [Add rows as needed] | | | | | |
+| Ch.1 (post-clinic recap) | Matrix access | "bright lattices of logic... trying to reach the console" | Persistent | Function | Phantom-limb framing; no cycle. |
+| Ch.3 (arena) | Matrix return | "Seven days and he'd jack in" | Persistent | Function | Countdown oriented. |
+| Ch.4 (first access) | Matrix access | "distanceless home, his country" | Persistent | Mixed | Homecoming language with release. |
+| Ch.10 (Freeside) | Stimulants | "I wanna buzz... get high" | Cyclical | Pleasure | Drug-seeking line. |
+| Ch.10 (Freeside) | Stimulants | "I'm a drug addict... stimulants" | Cyclical | Pleasure | Self-label suggests hedonic pattern. |
 
 ---
 
@@ -139,13 +146,13 @@ This is the critical test. If restoration reads as "getting high," the addiction
 
 | Marker Type | Present? | Quote/Paraphrase | Implication |
 |-------------|----------|------------------|-------------|
-| Euphoria/rush | | | |
-| Pleasure language | | | |
-| Rightness/fit | | | |
-| Function/coherence | | | |
-| Relief/calm | | | |
-| Return-to-self | | | |
-| Other | | | |
+| Euphoria/rush | Yes | "flowed, flowered... fluid neon origami trick" | High arousal/rapture present. |
+| Pleasure language | Yes | "somewhere he was laughing... tears of release" | Emotional release, not purely technical. |
+| Rightness/fit | Yes | "distanceless home, his country" | Homecoming framing. |
+| Function/coherence | Yes | Deck operation, clear system imagery | Functional restoration. |
+| Relief/calm | Partial | "tears of release" suggests relief | Not calm; energized. |
+| Return-to-self | Yes | "This was it. This was what he was, who he was" | Identity restored via function. |
+| Other | Yes | "He'd been in cyberspace for five hours" | Hyperfocus time loss. |
 
 ---
 
@@ -203,6 +210,50 @@ CLAIM: Case is an addict
 │   └── [etc.]
 └── ASSESSMENT: Supported / Complicated / Contradicted
 ```
+
+## Argument Map (Filled)
+
+CLAIM: Case is an addict
+├── Evidence FOR
+│   ├── Case: "I'm a drug addict, Cath... stimulants" (self-label, Freeside)
+│   ├── Case: "I wanna buzz... get high" (hedonic desire)
+│   ├── Deane/Armitage: "clean" and "dangerous dependency" (institutional framing)
+├── Evidence AGAINST
+│   ├── Case's matrix longing is persistent and functional (console reach, lattices of logic)
+│   ├── Restoration framed as home/fit as much as euphoria ("distanceless home, his country")
+│   ├── No cyclical craving pattern in matrix loss; deprivation is constant
+└── ASSESSMENT: Complicated
+
+## Synthesis (300-400 words)
+
+Addiction language in *Neuromancer* is present but unevenly distributed. The narrator uses addiction explicitly for Linda ("armature of addiction") and for Zone ("slow undersea grace of his addiction"), but this vocabulary is rarely applied directly to Case by the narrator. Institutional voices do label him: Deane greets him as "clean," and Armitage frames medical intervention as freeing him from a "dangerous dependency." Case himself adopts addiction language later, telling Cath "I'm a drug addict" and explicitly seeking to "buzz" and "get high." These are unambiguous drug-seeking lines and must be granted weight.
+
+However, Case's core longing for the Matrix is rendered as persistent, functional deprivation rather than a cyclical craving loop. The early Chiba passage stresses constant absence and a phantom-limb reach for the console, with no relief cycles. The memory is operational and intact; he does not describe needing more over time or losing control in a use/comedown pattern. When access is restored, the scene combines euphoria with homecoming: "distanceless home, his country," tears of release, and immediate operational coherence. This reads less like intoxication as escape and more like a return to a baseline mode of competence. That combination is crucial: the text allows affective intensity without making the experience primarily hedonic.
+
+The strongest support for the "institutional misdescription" claim lies in who says what. The most formal addiction language ("dangerous dependency") is instrumental and controlling, used to leverage Case's labor; it does not describe his phenomenology. Meanwhile, Case's own stimulant use is real and acknowledged, but it sits alongside a distinct, functional dependency on matrix access. The text therefore supports a category conflict: drug addiction exists in the world (and in Case), yet the deprivation of interface competence is not reducible to addiction cycles. The addiction frame fits some behaviors but does not fully map his core loss.
+
+## Counter-Reading Response
+
+The pro-addiction reading is right to point to explicit drug-seeking ("I wanna buzz") and self-label ("I'm a drug addict"). The novel does not deny Case's stimulant abuse, and those moments are not ironic. Where the pro-addiction reading fails is in collapsing all of Case's deprivation into that frame. The matrix loss is rendered as a persistent, functional absence with procedural memory intact, not as a craving/relief cycle. The restoration scene mixes euphoria with homecoming and operational coherence, which is a different structure than drug intoxication alone. The most formal addiction framing comes from institutions that benefit from describing his need as dependency, suggesting moral/medical labeling where functional access is at stake.
+
+## Implications for Section 3 Draft
+
+Claims to make:
+- Addiction language is present but primarily applied to others or used instrumentally by institutions.
+- Case's stimulant use is real and must be acknowledged.
+- Matrix longing reads as persistent deprivation and functional need, not a classic addiction cycle.
+
+Claims to qualify:
+- Restoration includes euphoria; avoid framing it as purely calm or purely technical.
+- Case's self-label as addict complicates any simple rejection of addiction framing.
+
+Load-bearing moments:
+- Deane's "clean," Armitage's "dangerous dependency," Case's "drug addict" line.
+- Restoration: "distanceless home, his country," "tears of release."
+
+Handling moral complexity:
+- Distinguish drug addiction (hedonic, cyclical) from access-dependency (functional, persistent).
+- Treat institutional framing as leverage rather than phenomenological truth.
 
 ---
 
