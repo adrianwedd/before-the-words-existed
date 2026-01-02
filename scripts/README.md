@@ -13,3 +13,16 @@ python scripts/verify_openlibrary.py "Neuromancer William Gibson" "Hackers Steve
 Notes:
 - Requires network access.
 - Returns the top three matches with basic fields.
+
+## render_thesis.py
+
+Render the thesis HTML and PDF from `Before-the-Words-Existed.md`.
+
+Example:
+
+```
+python scripts/render_thesis.py
+```
+
+Notes:
+- Requires `markdown` and `weasyprint` to be installed.
