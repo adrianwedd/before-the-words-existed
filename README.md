@@ -16,6 +16,12 @@ This repository contains the evidence.
 
 ---
 
+## Read the Essay
+
+**📄 [Download PDF](https://github.com/adrianwedd/before-the-words-existed/releases/latest/download/Before-the-Words-Existed.pdf)** | **📝 [Read Online](https://github.com/adrianwedd/before-the-words-existed/blob/main/drafts/Before%20the%20Words%20Existed%20-%20Neuromancer%20and%20the%20Experience%20of%20Cognitive%20Mismatch.md)** | **[Latest Release](https://github.com/adrianwedd/before-the-words-existed/releases/latest)**
+
+---
+
 ## The Thesis
 
 ***Neuromancer* encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation.**
