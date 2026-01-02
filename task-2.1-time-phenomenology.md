@@ -82,9 +82,21 @@ Populate the tables below.
 
 | ID | Location | State | Temporal Marker Type | Quote/Paraphrase | Voice (N/FI/D) | Time Quality | Notes |
 |----|----------|-------|---------------------|------------------|----------------|--------------|-------|
-| 2.1-E01 | | | | | | | |
-| 2.1-E02 | | | | | | | |
-| [Add rows as needed] | | | | | | | |
+| 2.1-E01 | Ch.1 early (post-clinic recap) | DEP | Explicit duration | "A year here and he still dreamed of cyberspace, hope fading nightly." | N | Accumulating | Time as erosion; nightly repetition. |
+| 2.1-E02 | Ch.1 (Chiba clinics) | DEP | Explicit duration | "In Chiba, he'd watched his New Yen vanish in a two-month round of examinations and consultations." | N | Accumulating | Time spent yields no repair. |
+| 2.1-E03 | Ch.1 (Jarre de The) | DEP | Explicit duration | "In the first month, he'd killed two men and a woman..." | N | Accumulating | Time measured by damage accrual. |
+| 2.1-E04 | Ch.1 (Night City) | DEP | Temporal metaphor | "thumb permanently on the fast-forward button." | N | Compressing | Acceleration in deprivation (complicates stretch). |
+| 2.1-E05 | Ch.1 (port coffins) | DEP | Duration/setting | "quartz-halogen floods that lit the docks all night like vast stages." | N | Stretching | Night rendered as long, unending exposure. |
+| 2.1-E06 | Ch.3 (arena) | MEM | Countdown/future pull | "Seven days and he'd jack in. If he closed his eyes now, he'd see the matrix." | N/FI | Flowing | Future-oriented countdown; structured anticipation. |
+| 2.1-E07 | Ch.4 (first access prep) | RES | Timestamp anchor | "Wednesday. Eight days from waking in Cheap Hotel with Molly beside him." | N | Fragmented | Time anchored to repair and waking; transitional. |
+| 2.1-E08 | Ch.4 (first access) | RES | Objective duration | "He'd been in cyberspace for five hours." | N | Compressing | Time collapse on return. |
+| 2.1-E09 | Ch.5 (Sense/Net ice) | ACT | Subjective duration | "He lost track of days." | N | Absent | Time blindness during sustained work. |
+| 2.1-E10 | Ch.5 (post-dream) | ACT | Explicit duration | "When he did remember, he jacked in and worked for nine straight hours." | N | Compressing | Hyperfocus time collapse. |
+| 2.1-E11 | Ch.5 (Sense/Net run) | ACT | Project duration | "The cutting of Sense/Net's ice took a total of nine days." | N | Flowing | Time structured by project cadence. |
+| 2.1-E12 | Ch.6 (Panther Moderns op) | ACT | Timestamp precision | "At 12:04:03... strobed for eighteen seconds." | N | Fragmented | Clock-time precision during action. |
+| 2.1-E13 | Ch.12 (Finn construct) | ACT | Relative time dilation | "An hour here'll only take you a couple of seconds." | D | Compressing | Matrix time dilation; subjective/relative. |
+| 2.1-E14 | Ch.15 (Flatline) | ACT | Explicit duration | "You were braindead again, five seconds." | D | Fragmented | Micro-intervals in high-risk state. |
+| 2.1-E15 | Ch.4 (Deane meet) | OUT | Deadline/urgency | "Five. Five minutes... Any more and I'll come in..." | D | Flowing | External structure imposed by Molly. |
 
 **Time Quality options:**
 - Stretching (feels longer than it is)
@@ -100,13 +112,48 @@ Populate the tables below.
 
 | State | Expected Time Quality | Actual Time Quality (from evidence) | Confirmed/Complicated/Contradicted |
 |-------|----------------------|-------------------------------------|-----------------------------------|
-| Deprivation (DEP) | Stretching, accumulating, future-absent | | |
-| Memory (MEM) | Possibly sharper, more structured? | | |
-| Restoration (RES) | Transition—what happens? | | |
-| Active (ACT) | Compressing, flowing, absorbed | | |
-| Outside post-restoration (OUT) | Unknown—test this | | |
+| Deprivation (DEP) | Stretching, accumulating, future-absent | Accumulating and stretching (E01-E03, E05) with acceleration mixed in (E04). | Complicated |
+| Memory (MEM) | Possibly sharper, more structured? | Countdown and immediate visibility ("Seven days...") gives structured anticipation. | Confirmed |
+| Restoration (RES) | Transition—what happens? | Time anchoring followed by collapse ("five hours"). | Confirmed |
+| Active (ACT) | Compressing, flowing, absorbed | Time loss, hyperfocus hours, time dilation, timestamp precision. | Confirmed |
+| Outside post-restoration (OUT) | Unknown—test this | External deadlines and operational timers structure time; not inherently distorted. | Complicated |
 
 ---
+
+## Pacing Analysis (300-400 words)
+
+The novel’s pacing encodes temporal phenomenology through shifts in sentence length, time-stamp density, and narrative compression. In the Chiba opening, time is rendered as attritional and heavy: Gibson layers long descriptive paragraphs with explicit durations ("a year here," "two-month round," "first month"), and the time markers accumulate rather than propel. The prose lingers on environment, and the time references are mostly retrospective and erosive, aligning with deprivation as accumulation and drift. Even when the city is described as a "fast-forward button," the feeling is not speed toward a goal but acceleration without direction.
+
+Once Case is restored, the text tightens and time becomes operational. The first access sequence unfolds in crisp steps and then snaps to the check-in ("He'd been in cyberspace for five hours"), a direct demonstration of time collapse. The Sense/Net section compresses long stretches into summary statements ("lost track of days," "nine straight hours," "nine days"), which is itself a formal encoding of hyperfocus: the narrative collapses calendar time to single lines while emphasizing the subjective blur. During runs, the book shifts to clock-time precision and rapid cuts: explicit timestamps ("At 12:04:03... eighteen seconds") and micro-intervals ("five seconds") break the flow into quantized beats. That precision is a different texture from Chiba’s slow attrition, and it mirrors the move from drift to task-bound urgency.
+
+The pacing also shows external structuring forces. Molly’s "five minutes" ultimatum, Armitage’s deadlines, and the Finn’s "hour here... seconds" calibrate time relative to tasks and systems rather than mood. The narrative frequently toggles between elapsed time summaries and second-by-second action, suggesting that Case’s temporal experience is state-dependent: slow erosion in deprivation, collapse and compression in flow, and externally structured time when others impose clocks. The form does not stay neutral; it rhythmically enacts these shifts.
+
+## ADHD Resonance Points
+
+- Time blindness: Supported by "He lost track of days" and the collapse from five hours of cyberspace into a single beat.
+- Future as unreal: Mixed; deprivation includes fading hope, but the "Seven days and he'd jack in" countdown shows future pull can reappear.
+- Hyperfocus time collapse: Supported by five-hour session and "nine straight hours."
+- "Now or not now" binary: Partial; operational timers and minute/second constraints dominate during runs.
+- External structure dependence: Supported by Molly's five-minute limit and operational timestamps during runs.
+
+## Counter-Evidence Section
+
+Deprivation does not exclusively stretch time: the "fast-forward button" metaphor implies acceleration rather than drift, complicating a simple stretching model. Case can orient to future deadlines even pre-restoration ("Seven days and he'd jack in"), which resists the claim that the future is wholly unreal in deprivation. Post-restoration, time is not only collapsed; it is also measured and scheduled with high precision (timestamps, seconds, multi-day plans), indicating that Case can operate within clock-time when the task demands it. These passages suggest that temporal distortion is contingent and state-dependent, not a universal or constant feature.
+
+## Implications for Section 2b Draft
+
+Claims to assert:
+- Deprivation time accumulates and erodes; access time compresses and becomes task-structured.
+- Hyperfocus collapse is textually explicit (five hours, nine hours, lost days).
+- Matrix contexts introduce relative time dilation ("hour here... seconds").
+
+Claims to qualify:
+- Deprivation also includes acceleration imagery ("fast-forward button").
+- Future orientation is not absent; it can reappear as countdowns.
+
+Elements to add:
+- Operational time-stamps and micro-intervals as formal evidence of time precision in action.
+- External structuring (Molly/Armitage deadlines) as a stabilizing temporal scaffold.
 
 ## Key Questions to Answer
 
