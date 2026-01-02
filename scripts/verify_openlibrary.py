@@ -16,6 +16,7 @@ import urllib.request
 
 
 def search(query: str, limit: int = 3) -> dict:
+    # Open Library search endpoint; limit is applied on output for clarity.
     url = "https://openlibrary.org/search.json?q=" + urllib.parse.quote(query)
     with urllib.request.urlopen(url, timeout=20) as resp:
         return json.load(resp)
@@ -40,6 +41,7 @@ def main() -> int:
             print("  No results")
             continue
 
+        # Report the top matches with core bibliographic fields.
         for doc in docs[:3]:
             title = doc.get("title")
             author = ", ".join(doc.get("author_name", [])[:2])

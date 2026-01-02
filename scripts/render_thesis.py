@@ -9,12 +9,14 @@ from weasyprint import HTML
 
 def render_html(markdown_path: Path, html_path: Path) -> None:
     src = markdown_path.read_text(encoding="utf-8")
+    # Convert markdown into a single HTML body we can wrap with layout + metadata.
     html_body = markdown.markdown(src, extensions=["tables", "fenced_code"])
     description = (
         "A literary analysis of William Gibson's Neuromancer arguing that "
         "Case's cognition coheres with interface access, anticipating later "
         "vocabulary for cognitive mismatch."
     )
+    # Canonical URL for preview cards and search engines.
     canonical_url = "https://adrianwedd.github.io/before-the-words-existed/thesis.html"
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -126,11 +128,13 @@ hr {{ border: none; border-top: 1px solid var(--muted); margin: 2rem 0; }}
 
 
 def render_pdf(html_path: Path, pdf_path: Path) -> None:
+    # Render with full-bleed settings defined in the HTML @page styles.
     HTML(str(html_path)).write_pdf(str(pdf_path))
 
 
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[1]
+    # Source thesis and rendered outputs.
     markdown_path = repo_root / "Before-the-Words-Existed.md"
     html_path = repo_root / "docs" / "thesis.html"
     pdf_path = repo_root / "docs" / "Before-the-Words-Existed.pdf"
