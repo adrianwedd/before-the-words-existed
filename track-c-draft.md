@@ -1,10 +1,10 @@
-# Before the Words Existed: Neuromancer and the Phenomenology of Cognitive Mismatch (Track C Draft)
+# Before the Words Existed: Neuromancer and the Phenomenology of Cognitive Mismatch
 
 ## 1. Introduction
 
 This essay argues that *Neuromancer* encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation. The claim is not diagnostic. It is structural: Case's cognition coheres in one interface and collapses in another, and the text renders that shift with procedural precision. In 1984, the language for adult cognitive mismatch was scattered across psychiatry, technostress, and hacker subculture. Gibson does not name the structure; he builds it. The novel renders the matrix as a mode of cognition, not just a setting -- a space where Case's attention finally has traction.
 
-It adds historical framing, explicit methodology, a body/embodiment section, a comparative phenomenology section (Case and Molly), a naming-gap genealogy in early criticism, and a parallel case in Philip K. Dick. The core phenomenology remains: deprivation as attritional flattening, sharp memory as domain-specific precision, time as state-dependent, addiction as a separate cycle from access-dependency, and environment as affordance rather than essence.
+The essay adds historical framing, explicit methodology, a body/embodiment section, a comparative phenomenology section (Case and Molly), a naming-gap genealogy in early criticism, and a parallel case in Philip K. Dick. The core phenomenology remains: deprivation as attritional flattening, sharp memory as domain-specific precision, time as state-dependent, addiction as a separate cycle from access-dependency, and environment as affordance rather than essence.
 
 The approach is deliberately two-layered. Cyberpunk noir supplies atmosphere; mismatch supplies mechanism. The proof is not in a single scene but in reversibility, precision, and relationality across the text. When access returns, agency returns; when access is denied, cognition collapses. The body is not a metaphor; it is a living obstruction when the interface is absent. The essay follows the evidence, names counter-readings, and keeps the lab coat on. The collar is up.
 
@@ -176,7 +176,7 @@ This parallel case strengthens the core claim: speculative fiction can function 
 
 If Gibson gives us interface-dependent cognition in a world of decks and data, Dick gives us interface-dependent cognition in a world of memory, time, and paranoid machinery. Both are working in the same pre-clinical interval. The resonance suggests a broader pattern: SF writers are often early cartographers of experiential structures that have not yet received institutional language.
 
-For Track C, the point is methodological rather than biographical. The parallel case does not prove the *Neuromancer* reading; it demonstrates that the mechanism is plausible. If SF can preserve phenomenology in Dick's work, it can plausibly do so in Gibson's. The genre offers a permission structure for describing experiences without a stable clinical lexicon, and that permission structure is visible in both corpora. This is a genre argument, not an author diagnosis.
+Here the point is methodological rather than biographical. The parallel case does not prove the *Neuromancer* reading; it demonstrates that the mechanism is plausible. If SF can preserve phenomenology in Dick's work, it can plausibly do so in Gibson's. The genre offers a permission structure for describing experiences without a stable clinical lexicon, and that permission structure is visible in both corpora. This is a genre argument, not an author diagnosis.
 
 ## 11. Counter-Readings
 
@@ -242,19 +242,19 @@ For literary studies, the payoff is a method: treat interface as a cognitive ope
 ## References (Selected)
 
 - American Psychiatric Association. 1980. *Diagnostic and Statistical Manual of Mental Disorders*. 3rd ed. Washington, DC: American Psychiatric Association.
-- Blume, Harvey. 1998. "Neurodiversity." *The Atlantic*. Magazine article.
-- Brod, Craig. 1984. *Technostress: The Human Cost of the Computer Revolution*. Book.
-- Bukatman, Scott. 1993. *Terminal Identity: The Virtual Subject in Postmodern Science Fiction*. Book.
-- Dick, Philip K. 2011. *The Exegesis of Philip K. Dick*. Edited volume.
-- Gibson, William. 1984. *Neuromancer*. Novel.
-- Hartmann, Thom. 1993. *Attention Deficit Disorder: A Different Perception*. Book.
-- Hayles, N. Katherine. 1999. *How We Became Posthuman*. Book.
-- Jameson, Fredric. 1991. *Postmodernism, or, The Cultural Logic of Late Capitalism*. Book.
-- Levy, Steven. 1984. *Hackers: Heroes of the Computer Revolution*. Book.
-- Oliver, Mike. 1983. "The social model of disability." Paper.
-- Sinclair, Jim. 1993. "Don't Mourn For Us." Essay.
-- Singer, Judy. 1998. "Odd People In: The Birth of Community Amongst People on the Autism Spectrum." Honors thesis.
-- Toffler, Alvin. 1970. *Future Shock*. Book.
-- Toffler, Alvin. 1980. *The Third Wave*. Book.
-- Turkle, Sherry. 1984. *The Second Self: Computers and the Human Spirit*. Book.
-- Wender, Paul H., et al. 1980s. Utah Criteria for Adult ADD. Research criteria.
+- Blume, Harvey. 1998. "Neurodiversity." *The Atlantic*, September.
+- Brod, Craig. 1984. *Technostress: The Human Cost of the Computer Revolution*. Reading, MA: Addison-Wesley.
+- Bukatman, Scott. 1993. *Terminal Identity: The Virtual Subject in Postmodern Science Fiction*. Durham, NC: Duke University Press.
+- Dick, Philip K. 2011. *The Exegesis of Philip K. Dick*. Edited by Pamela Jackson and Jonathan Lethem. Boston: Houghton Mifflin Harcourt.
+- Gibson, William. 1984. *Neuromancer*. New York: Ace Books.
+- Hartmann, Thom. 1993. *Attention Deficit Disorder: A Different Perception*. Grass Valley, CA: Underwood-Miller.
+- Hayles, N. Katherine. 1999. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. Chicago: University of Chicago Press.
+- Jameson, Fredric. 1992. *Postmodernism, or, The Cultural Logic of Late Capitalism*. Durham, NC: Duke University Press.
+- Levy, Steven. 1984. *Hackers: Heroes of the Computer Revolution*. Garden City, NY: Anchor Press/Doubleday.
+- Oliver, Mike. 1983. "The Individual and Social Models of Disability." Paper presented at Thames Polytechnic.
+- Sinclair, Jim. 1993. "Don't Mourn For Us." *Our Voice* (Autism Network International newsletter).
+- Singer, Judy. 1998. "Odd People In: The Birth of Community Amongst People on the Autism Spectrum." Honors thesis, University of Technology, Sydney.
+- Toffler, Alvin. 1970. *Future Shock*. New York: Random House.
+- Toffler, Alvin. 1980. *The Third Wave*. New York: William Morrow & Co.
+- Turkle, Sherry. 1984. *The Second Self: Computers and the Human Spirit*. New York: Simon & Schuster.
+- Wender, Paul H., Fred W. Reimherr, and David Wood. 1980s. Utah Criteria for Adult ADD. University of Utah research criteria.
