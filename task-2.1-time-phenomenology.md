@@ -97,6 +97,19 @@ Populate the tables below.
 | 2.1-E13 | Ch.12 (Finn construct) | ACT | Relative time dilation | "An hour here'll only take you a couple of seconds." | D | Compressing | Matrix time dilation; subjective/relative. |
 | 2.1-E14 | Ch.15 (Flatline) | ACT | Explicit duration | "You were braindead again, five seconds." | D | Fragmented | Micro-intervals in high-risk state. |
 | 2.1-E15 | Ch.4 (Deane meet) | OUT | Deadline/urgency | "Five. Five minutes... Any more and I'll come in..." | D | Flowing | External structure imposed by Molly. |
+| 2.1-E16 | Ch.4 (simstim switch) | TRN | Timestamp/transition | "The screen bleeped a two-second warning." | N | Fragmented | Quantized transition into simstim. |
+| 2.1-E17 | Ch.4 (simstim) | TRN | Subjective seconds | "For a few frightened seconds he fought helplessly to control her body." | N | Fragmented | Discontinuity during perspective switch. |
+| 2.1-E18 | Ch.5 (Sense/Net op) | ACT | Countdown/urgency | "He watched the countdown... Two. One." | N | Flowing | Task-structured urgency pre-jack. |
+| 2.1-E19 | Ch.5 (Sense/Net op) | ACT | Timestamp precision | "12:01:20 as the readout flared in her optic nerve." | N | Fragmented | Precise clock-time during operation. |
+| 2.1-E20 | Ch.5 (Sense/Net op) | ACT | Minutes/threshold | "If she remained... more than twenty minutes, it was highly unlikely she'd be coming out." | N | Flowing | External time constraint shaping action. |
+| 2.1-E21 | Ch.5 (Sense/Net op) | ACT | Coordinated minutes | "The Panther Moderns allowed four minutes..." | N | Fragmented | Clocked phases of the run. |
+| 2.1-E22 | Ch.5 (Sense/Net op) | ACT | Timestamp precision | "At 12:05:00... five minutes after midnight..." | N | Fragmented | Clock-time granularity. |
+| 2.1-E23 | Ch.8 (Zion) | OUT | Duration/briefing | "Armitage announced an eighty-hour stay in Zion." | N | Flowing | External schedule imposes time frame. |
+| 2.1-E24 | Ch.8 (Zion) | OUT | Time as irrelevant | "I jack in and I'm not here. It's all the same." | D | Absent | Outside time flattened by access. |
+| 2.1-E25 | Ch.13 (Deane/Wintermute) | TRN | Subjective time gap | "would take me several hours -- your subjective time -- to effect another spokesperson." | D | Compressing | Subjective vs objective time split. |
+| 2.1-E26 | Ch.13 (Deane/Wintermute) | OUT | Deadline/urgency | "Time's very short now. You'll be making your run in a matter of days." | D | Flowing | Future pull and compressed schedule. |
+| 2.1-E27 | Ch.14 (Hosaka cabin) | ACT | Duration planning | "under the trodes for maybe eight hours straight." | D | Flowing | Anticipated absorption length. |
+| 2.1-E28 | Ch.12 (Finn construct) | ACT | Relative time dilation | "An hour here'll only take you a couple of seconds." | D | Compressing | Reinforces matrix dilation in active state. |
 
 **Time Quality options:**
 - Stretching (feels longer than it is)
@@ -115,8 +128,8 @@ Populate the tables below.
 | Deprivation (DEP) | Stretching, accumulating, future-absent | Accumulating and stretching (E01-E03, E05) with acceleration mixed in (E04). | Complicated |
 | Memory (MEM) | Possibly sharper, more structured? | Countdown and immediate visibility ("Seven days...") gives structured anticipation. | Confirmed |
 | Restoration (RES) | Transition—what happens? | Time anchoring followed by collapse ("five hours"). | Confirmed |
-| Active (ACT) | Compressing, flowing, absorbed | Time loss, hyperfocus hours, time dilation, timestamp precision. | Confirmed |
-| Outside post-restoration (OUT) | Unknown—test this | External deadlines and operational timers structure time; not inherently distorted. | Complicated |
+| Active (ACT) | Compressing, flowing, absorbed | Time loss, hyperfocus hours, time dilation, timestamp precision, phased minutes. | Confirmed |
+| Outside post-restoration (OUT) | Unknown—test this | External deadlines and schedules structure time; access flattens it ("I'm not here"). | Complicated |
 
 ---
 
@@ -135,10 +148,15 @@ The pacing also shows external structuring forces. Molly’s "five minutes" ulti
 - Hyperfocus time collapse: Supported by five-hour session and "nine straight hours."
 - "Now or not now" binary: Partial; operational timers and minute/second constraints dominate during runs.
 - External structure dependence: Supported by Molly's five-minute limit and operational timestamps during runs.
+- Transition discontinuity: Supported by two-second warnings and "few frightened seconds" at simstim switches.
 
 ## Counter-Evidence Section
 
 Deprivation does not exclusively stretch time: the "fast-forward button" metaphor implies acceleration rather than drift, complicating a simple stretching model. Case can orient to future deadlines even pre-restoration ("Seven days and he'd jack in"), which resists the claim that the future is wholly unreal in deprivation. Post-restoration, time is not only collapsed; it is also measured and scheduled with high precision (timestamps, seconds, multi-day plans), indicating that Case can operate within clock-time when the task demands it. These passages suggest that temporal distortion is contingent and state-dependent, not a universal or constant feature.
+
+## Second-Pass Note
+
+Patterns deepened, not shifted. The second pass adds TRN evidence (simstim switches), dense ACT timestamps in the Sense/Net run, and OUT scheduling in Zion, strengthening the claim that time distortion is state-dependent with operational clock-time coexistence.
 
 ## Implications for Section 2b Draft
 

@@ -18,7 +18,7 @@ First pass established patterns. Second pass aims for exhaustive coverage.
 |------|------------|-------------|--------|--------|
 | 1.1 Deprivation | 18 entries | 25 entries + 4 counter | 25-30 | ✓ Done |
 | 1.2 Sharp Memory | 8 entries | 15 entries + domain counter | 15-20 | ✓ Done |
-| 2.1 Time | 15 entries | — | 25-35 | Pending |
+| 2.1 Time | 15 entries | 28 entries (TRN gap filled) | 25-35 | ✓ Done |
 | 2.2 Addiction | 9 entries | — | 12-15 | Pending |
 | 2.3 Environment | 9 entries | — | 18-25 | Pending |
 
@@ -99,12 +99,21 @@ Counter-evidence: "I don't have this good a memory" — Case can't recall the li
 
 ## Phase 2 Findings (In Progress)
 
-### Task 2.1: Time Phenomenology — VERIFIED WITH QUALIFICATIONS
+### Task 2.1: Time Phenomenology — VERIFIED WITH QUALIFICATIONS (28 entries)
 
 **Core pattern validated:**
 - Deprivation time: Accumulating and erosive (E01-E03, E05)
-- Active/Matrix time: Compressing, absorbed, task-structured (E08-E14)
+- Active/Matrix time: Compressing, absorbed, task-structured (E08-E14, E18-E22, E27-E28)
 - Memory/anticipation: Future-pull present, countdown structure (E06)
+- Transition (TRN): Fragmented, discontinuous (E16-E17, E25) — **gap filled**
+- Outside post-restoration (OUT): Externally structured, access-flattened (E23-E24, E26)
+
+**Second-pass additions (Ch.4, 5, 8, 12, 13, 14):**
+- E16-E17: Simstim switch discontinuity ("two-second warning," "few frightened seconds")
+- E18-E22: Dense Sense/Net operation timestamps and phased minutes
+- E23-E24: Zion scheduling + "I jack in and I'm not here" (time flattening)
+- E25-E26: Wintermute subjective time split, compressed schedule
+- E27-E28: Anticipated absorption length, matrix dilation reinforced
 
 **Qualifications:**
 - Deprivation also includes acceleration imagery ("fast-forward button") — not pure stretching
@@ -116,11 +125,9 @@ Counter-evidence: "I don't have this good a memory" — Case can't recall the li
 - Hyperfocus collapse: SUPPORTED (five hours, nine hours, lost days)
 - External structure dependence: SUPPORTED (Molly's deadlines, operational timestamps)
 - Future as unreal: MIXED (fading hope, but countdown shows future-pull returns)
+- Transition discontinuity: SUPPORTED (simstim switches) — **new**
 
-**Key textual evidence:**
-- E08: "He'd been in cyberspace for five hours" — time collapse on return
-- E09: "He lost track of days" — time blindness during sustained work
-- E13: "An hour here'll only take you a couple of seconds" — Matrix time dilation
+**Second-pass finding:** Patterns deepened, not shifted. TRN gap filled, ACT/OUT coverage expanded. Time distortion is state-dependent with operational clock-time coexistence.
 
 **Pacing analysis confirmed:** Narrative form encodes temporal phenomenology — long attritional paragraphs in Chiba, compressed summaries during runs, timestamp precision during operations.
 
@@ -325,7 +332,7 @@ Phase 1: COMPLETE ✓
 |----------|--------|-------------|
 | `task-1.1-verify-deprivation-state.md` | ✓ COMPLETE (2nd pass) | Deprivation phenomenology verified |
 | `task-1.2-verify-sharp-memory.md` | ✓ COMPLETE (2nd pass) | Sharp memory/phantom-limb verified |
-| `task-2.1-time-phenomenology.md` | ✓ COMPLETE | Time distortion patterns verified |
+| `task-2.1-time-phenomenology.md` | ✓ COMPLETE (2nd pass) | Time distortion patterns verified |
 | `task-2.2-addiction-framing.md` | ✓ COMPLETE | Institutional misdescription thesis tested |
 | `task-2.3-environmental-markers.md` | ✓ COMPLETE | Medical vs. interactional framing tested |
 | `task-3.1-body-problem.md` | Pending | Ideology vs. dissociation |
