@@ -120,6 +120,8 @@ Institutional addiction language is often instrumental. Armitage's "dangerous de
 
 This distinction also reframes the restoration scene. The tears and release are not merely intoxication; they are the affective signature of regained competence. The matrix is not a neutral drug substitute; it is an affordance that stabilizes agency. The drug scenes read as self-medication in the absence of that affordance. The difference is subtle but crucial: addiction is a loop, access is a line back to a mode of agency, even if the affective texture can resemble withdrawal.
 If the text showed rapid crash-and-repair cycles in matrix scenes indistinguishable from drug highs, or if Case framed the matrix explicitly as intoxication rather than homecoming and work, the two-dependency model would fail. Likewise, if deprivation showed stable engagement rather than attritional flattening, the mismatch claim would collapse. These are the falsification points that keep the distinction honest.
+The mismatch model is tested against textual patterns, not lived-experience accounts. However, first-person ADHD phenomenology -- procedural hyperfocus, environmental sensitivity to task fit, state-dependent time perception (Hallowell and Ratey 1994) -- would be consonant with the structure the essay identifies in Case. This resonance is offered as analogy, not diagnosis.
+Contemporary addiction scholarship complicates the clean distinction: addiction itself can be procedural and identity-bound, not merely hedonic (Lewis 2015). The two-dependency model does not claim matrix-longing is entirely unlike addiction; it claims the text narrates them with different temporal signatures -- crash-and-seek for drugs, sustained coherence for the matrix. The falsification conditions test whether that narrative distinction holds, not whether it reflects a universal phenomenological difference.
 
 The institutional angle also explains why addiction language persists even when it does not fit. Armitage and Deane need a category that licenses control; "dependency" does that. The novel, by contrast, shows that the access-dependency is not a chemical craving but a functional orientation. Case does not crave the matrix because it is a high. He craves it because it is the only place his cognition coheres into work. That distinction is the core of the conflation claim: the text shows overlap without identity.
 
@@ -253,9 +255,11 @@ For literary studies, the payoff is a method: treat interface as a cognitive ope
 - Dick, Philip K. 2011. *The Exegesis of Philip K. Dick*. Edited by Pamela Jackson and Jonathan Lethem. Boston: Houghton Mifflin Harcourt.
 - Gibson, William. 1984. *Neuromancer*. New York: Ace Books.
 - Hartmann, Thom. 1993. *Attention Deficit Disorder: A Different Perception*. Grass Valley, CA: Underwood-Miller.
+- Hallowell, Edward M., and John J. Ratey. 1994. *Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood*. New York: Pantheon.
 - Hayles, N. Katherine. 1999. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. Chicago: University of Chicago Press.
 - Jameson, Fredric. 1992. *Postmodernism, or, The Cultural Logic of Late Capitalism*. Durham, NC: Duke University Press.
 - Levy, Steven. 1984. *Hackers: Heroes of the Computer Revolution*. Garden City, NY: Anchor Press/Doubleday.
+- Lewis, Marc. 2015. *The Biology of Desire: Why Addiction Is Not a Disease*. New York: PublicAffairs.
 - Oliver, Mike. 1983. *Social Work with Disabled People*. London: Macmillan.
 - Oliver, Mike. 1990. "The Individual and Social Models of Disability." Paper presented at Thames Polytechnic.
 - Sinclair, Jim. 1993. "Don't Mourn For Us." *Our Voice* (Autism Network International newsletter).
