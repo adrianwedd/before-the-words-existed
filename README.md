@@ -18,7 +18,7 @@ This repository contains the evidence.
 
 ## Read the Essay
 
-**📄 [Download PDF](https://github.com/adrianwedd/before-the-words-existed/releases/latest/download/Before-the-Words-Existed.pdf)** | **🌐 [Read Online](https://adrianwedd.github.io/before-the-words-existed/)** | **[Latest Release](https://github.com/adrianwedd/before-the-words-existed/releases/latest)**
+**📄 [Download PDF](https://github.com/adrianwedd/before-the-words-existed/releases/latest/download/Before-the-Words-Existed.pdf)** | **🌐 [Read Online](https://adrianwedd.github.io/before-the-words-existed/thesis.html)** | **[Latest Release](https://github.com/adrianwedd/before-the-words-existed/releases/latest)**
 
 ---
 
