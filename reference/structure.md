@@ -69,7 +69,8 @@ neuromancer-mismatch/
 │   ├── thesis.html
 │   └── Before-the-Words-Existed.pdf
 │
-├── tasks/                       # 8 research task files with evidence tables
+├── analysis/                    # Research corpus (tasks, reviews, deep dives)
+│   ├── tasks/                   # 8 research task files with evidence tables
 │   ├── task-1.1-verify-deprivation-state.md
 │   ├── task-1.2-verify-sharp-memory.md
 │   ├── task-2.1-time-phenomenology.md
@@ -83,15 +84,14 @@ neuromancer-mismatch/
 │   ├── track-b-draft.md         # Standalone essay version
 │   └── track-c-draft.md         # Academic paper version
 │
-├── research/                    # 5 historiographic deep-dives
-│   ├── The_Phenomenology_of_the_Glitch.md  # ADHD history 1960-1990
-│   ├── Paradigms_of_Pluralism.md           # Neurodiversity timeline
-│   ├── The_Texture_of_the_Present.md       # Gibson's creative process
-│   ├── The_Exegesis_of_the_Idios_Kosmos.md # Philip K. Dick parallel
-│   └── Terminal_Psychologies.md            # Early criticism 1984-1995
-│
-├── reviews/                     # Adversarial peer review simulations
-│   └── [review files and analyses]
+│   ├── research/                # 5 historiographic deep-dives
+│   │   ├── The_Phenomenology_of_the_Glitch.md  # ADHD history 1960-1990
+│   │   ├── Paradigms_of_Pluralism.md           # Neurodiversity timeline
+│   │   ├── The_Texture_of_the_Present.md       # Gibson's creative process
+│   │   ├── The_Exegesis_of_the_Idios_Kosmos.md # Philip K. Dick parallel
+│   │   └── Terminal_Psychologies.md            # Early criticism 1984-1995
+│   └── reviews/                 # Adversarial peer review simulations
+│       └── [review files and analyses]
 │
 ├── reference/                   # Supporting documentation
 │   ├── dsm-history-1980.md
@@ -342,7 +342,7 @@ Counter-evidence: "I don't have this good a memory" — Case can't recall the li
 - **Track B (Standalone):** `drafts/track-b-draft.md`
 - **Track C (Academic):** `drafts/track-c-draft.md`
 - **Methods Statement:** `methodological-posture.md`
-- **Research Corpus:** `research/` folder (5 deep-dive reports)
+- **Research Corpus:** `analysis/research/` folder (5 deep-dive reports)
 
 ---
 

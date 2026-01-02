@@ -42,11 +42,11 @@ Research and document:
 
 | Question | Finding | Source |
 |----------|---------|--------|
-| What was ADHD called in 1984? | "Attention Deficit Disorder (ADD)" per DSM-III (1980). | reference/dsm-history-1980.md; research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Was it in DSM-III (1980)? What criteria? | Yes; DSM-III renamed "Hyperkinetic Reaction of Childhood" to ADD (with/without hyperactivity). | reference/dsm-history-1980.md; research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Was adult ADHD recognised? | Only weakly: DSM-III allowed "ADD, Residual Type" (314.80), requiring childhood hyperactivity history; adults were more likely labeled "scatterbrained," "unmotivated," or "eccentric." | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| When did adult ADHD gain clinical recognition? | DSM-IV (1994) first acknowledged persistence into adulthood. | reference/dsm-history-1980.md; research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| When did phenomenological accounts (emotional dysregulation, RSD, time blindness) emerge? | Affective lability entered adult criteria via Wender’s Utah Criteria (1980s). RSD/time blindness as named terms emerge later in neurodiversity discourse (1990s–2010s). | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md; research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| What was ADHD called in 1984? | "Attention Deficit Disorder (ADD)" per DSM-III (1980). | reference/dsm-history-1980.md; analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Was it in DSM-III (1980)? What criteria? | Yes; DSM-III renamed "Hyperkinetic Reaction of Childhood" to ADD (with/without hyperactivity). | reference/dsm-history-1980.md; analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Was adult ADHD recognised? | Only weakly: DSM-III allowed "ADD, Residual Type" (314.80), requiring childhood hyperactivity history; adults were more likely labeled "scatterbrained," "unmotivated," or "eccentric." | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| When did adult ADHD gain clinical recognition? | DSM-IV (1994) first acknowledged persistence into adulthood. | reference/dsm-history-1980.md; analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| When did phenomenological accounts (emotional dysregulation, RSD, time blindness) emerge? | Affective lability entered adult criteria via Wender’s Utah Criteria (1980s). RSD/time blindness as named terms emerge later in neurodiversity discourse (1990s–2010s). | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md; analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
 
 **Key absence to document:**
 The phenomenological features central to this essay—affective flattening without stimulation, identity-competence binding, time distortion, environmental mismatch framing—were NOT part of clinical discourse in 1984.
@@ -55,13 +55,13 @@ The phenomenological features central to this essay—affective flattening witho
 
 | Concept | Status in 1984 | Notes |
 |---------|---------------|-------|
-| "Hyperactivity" in children | Present historically as DSM-II "Hyperkinetic Reaction of Childhood" (1968). | reference/dsm-history-1980.md; research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| "Attention deficit" as category | Present as DSM-III "Attention Deficit Disorder" (1980). | reference/dsm-history-1980.md; research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Adult continuation of childhood ADHD | Only as "ADD, Residual Type" in DSM-III; limited and retrospective. | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Emotional dysregulation as ADHD feature | Present in Wender’s Utah Criteria (affective lability, hot temper, emotional overreactivity). | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| "Time blindness" | Term emerges later via neurodiversity/clinical discourse; not documented in 1984. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| "Rejection sensitive dysphoria" | Named later (neurodiversity/clinical discourse); not in 1984 vocab. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| Environmental/contextual models | Social model of disability formalized (1983) but not yet applied to cognition. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| "Hyperactivity" in children | Present historically as DSM-II "Hyperkinetic Reaction of Childhood" (1968). | reference/dsm-history-1980.md; analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| "Attention deficit" as category | Present as DSM-III "Attention Deficit Disorder" (1980). | reference/dsm-history-1980.md; analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Adult continuation of childhood ADHD | Only as "ADD, Residual Type" in DSM-III; limited and retrospective. | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Emotional dysregulation as ADHD feature | Present in Wender’s Utah Criteria (affective lability, hot temper, emotional overreactivity). | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| "Time blindness" | Term emerges later via neurodiversity/clinical discourse; not documented in 1984. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| "Rejection sensitive dysphoria" | Named later (neurodiversity/clinical discourse); not in 1984 vocab. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| Environmental/contextual models | Social model of disability formalized (1983) but not yet applied to cognition. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
 
 ---
 
@@ -73,12 +73,12 @@ Research what concepts WERE available:
 
 | Concept | Status in Early 1980s | Key Sources/Figures |
 |---------|----------------------|---------------------|
-| "Information overload" | Present in cultural discourse (Toffler), framed as environmental burden. | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| "Future shock" | Present via Toffler; feeds overload narrative. | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Human-computer interaction | Present in popular psych discourse (Turkle, 1984). | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Cognitive science emergence | Present as background; not central in these sources. | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| "Burnout" | Emerging workplace label for executive collapse. | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Technological anxiety | Named as "technostress" (Brod, 1984). | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| "Information overload" | Present in cultural discourse (Toffler), framed as environmental burden. | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| "Future shock" | Present via Toffler; feeds overload narrative. | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Human-computer interaction | Present in popular psych discourse (Turkle, 1984). | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Cognitive science emergence | Present as background; not central in these sources. | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| "Burnout" | Emerging workplace label for executive collapse. | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Technological anxiety | Named as "technostress" (Brod, 1984). | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
 
 ### Questions to Answer
 
@@ -106,11 +106,11 @@ Research documented statements about:
 
 | Topic | What Gibson Has Said | Source |
 |-------|---------------------|--------|
-| His writing process | "Internet ablutions"; five-day week expands to seven-day, twelve-hour crunch; "permission to fail"; naps essential. | research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
-| His relationship to technology | Pattern-recognition over prophecy ("steam-engine time"); internet browsing as necessary "waste" for collage. | research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
-| His experience of attention/focus | End-stage writing as "chemically altered state" that must be sustained; hypnagogic "mind on waking." | research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
-| His intentions with *Neuromancer* | Wrote on manual typewriter; ignorance of computers enabled the "consensual hallucination" idea. | research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
-| His response to interpretations of his work | Not directly documented here; relies on interviews and essays listed in sources. | research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
+| His writing process | "Internet ablutions"; five-day week expands to seven-day, twelve-hour crunch; "permission to fail"; naps essential. | analysis/research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
+| His relationship to technology | Pattern-recognition over prophecy ("steam-engine time"); internet browsing as necessary "waste" for collage. | analysis/research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
+| His experience of attention/focus | End-stage writing as "chemically altered state" that must be sustained; hypnagogic "mind on waking." | analysis/research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
+| His intentions with *Neuromancer* | Wrote on manual typewriter; ignorance of computers enabled the "consensual hallucination" idea. | analysis/research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
+| His response to interpretations of his work | Not directly documented here; relies on interviews and essays listed in sources. | analysis/research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md |
 
 ### Constraints
 
@@ -142,7 +142,7 @@ Speculative fiction may articulate experiential patterns before clinical or theo
 
 | Author | Work | What It Might Anticipate | Evidence |
 |--------|------|-------------------------|----------|
-| Philip K. Dick | *Exegesis*, *A Scanner Darkly*, *Martian Time-Slip* | Dissociation, TLE, derealization, split-brain phenomenology | research/The_Exegesis_of_the_Idios_Kosmos_Philip_K_Dick_as_Pre-Clinical_Sensor_of_Neurodivergence_and_Dissociative_Phenomenology.md |
+| Philip K. Dick | *Exegesis*, *A Scanner Darkly*, *Martian Time-Slip* | Dissociation, TLE, derealization, split-brain phenomenology | analysis/research/The_Exegesis_of_the_Idios_Kosmos_Philip_K_Dick_as_Pre-Clinical_Sensor_of_Neurodivergence_and_Dissociative_Phenomenology.md |
 | J.G. Ballard | Disaster novels, *Crash* | Trauma, repetition compulsion, psychic numbing | Not documented in current research set. |
 | Ursula K. Le Guin | *Left Hand of Darkness*, others | Gender as constructed, fluid | Not documented in current research set. |
 | Samuel R. Delany | *Babel-17*, *Nova* | Language-cognition relationship, neurodiversity | Not documented in current research set. |
@@ -172,15 +172,15 @@ The strongest evidence for "pre-clinical sensing" is documenting what DIDN'T exi
 
 | Concept | Did NOT Exist in 1984 | Emerged When | Source |
 |---------|----------------------|--------------|--------|
-| Adult ADHD as clinical entity | Yes (only "ADD, Residual Type" existed). | DSM-IV (1994). | reference/dsm-history-1980.md; research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| Emotional dysregulation as ADHD feature | Not standardized in DSM; Utah Criteria used in research. | 1980s (research context). | research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
-| "Time blindness" terminology | No mainstream term in 1984; enters discourse later. | 1990s–2010s (neurodiversity/community). | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| "Rejection sensitive dysphoria" | Not present in 1984; later reframing. | 2010s. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| Environmental/contextual ADHD models | Social model formalized (1983) but not yet applied to cognition. | 1983+; applied later in neurodiversity. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| "Hyperfocus" as ADHD feature | Not formalized as positive feature in 1984. | 1990s–2010s (community/clinical). | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| ADHD as "different operating system" framing | Not present in 1984. | 2000s (neurodiversity metaphor). | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| "Neurodivergent" terminology | Not present in 1984. | c. 2000. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| "Neurotypical" terminology | Not present in 1984. | 1996 (InLv mailing list, Martijn Dekker). | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| Adult ADHD as clinical entity | Yes (only "ADD, Residual Type" existed). | DSM-IV (1994). | reference/dsm-history-1980.md; analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| Emotional dysregulation as ADHD feature | Not standardized in DSM; Utah Criteria used in research. | 1980s (research context). | analysis/research/The_Phenomenology_of_the_Glitch_A_Historical_Reconstruction_of_Cognitive_Mismatch_Adult_Attention_and_the_Pre-Diagnostic_Void_1960-1990.md |
+| "Time blindness" terminology | No mainstream term in 1984; enters discourse later. | 1990s–2010s (neurodiversity/community). | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| "Rejection sensitive dysphoria" | Not present in 1984; later reframing. | 2010s. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| Environmental/contextual ADHD models | Social model formalized (1983) but not yet applied to cognition. | 1983+; applied later in neurodiversity. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| "Hyperfocus" as ADHD feature | Not formalized as positive feature in 1984. | 1990s–2010s (community/clinical). | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| ADHD as "different operating system" framing | Not present in 1984. | 2000s (neurodiversity metaphor). | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| "Neurodivergent" terminology | Not present in 1984. | c. 2000. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| "Neurotypical" terminology | Not present in 1984. | 1996 (InLv mailing list, Martijn Dekker). | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
 
 **Each absence documented strengthens the claim that Gibson couldn't have been "illustrating" these concepts.**
 
@@ -188,11 +188,11 @@ The strongest evidence for "pre-clinical sensing" is documenting what DIDN'T exi
 
 | Year | Shift | Significance | Source |
 |------|-------|--------------|--------|
-| 1983 | Social Model of Disability (Mike Oliver) | Environment vs. individual framing; later applied to cognition. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| 1993 | "Don't Mourn For Us" (Jim Sinclair) | Foundational autism self‑advocacy; identity framing against cure narrative. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| 1993 | Hunter vs. Farmer (Thom Hartmann) | Popular difference‑not‑deficit framing for ADHD. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| 1996 | "Neurotypical" (InLv, Martijn Dekker) | Names the dominant baseline; enables neurodiversity contrast. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
-| 1998 | "Neurodiversity" (Judy Singer / Harvey Blume) | Term enters academia and print media. | research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| 1983 | Social Model of Disability (Mike Oliver) | Environment vs. individual framing; later applied to cognition. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| 1993 | "Don't Mourn For Us" (Jim Sinclair) | Foundational autism self‑advocacy; identity framing against cure narrative. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| 1993 | Hunter vs. Farmer (Thom Hartmann) | Popular difference‑not‑deficit framing for ADHD. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| 1996 | "Neurotypical" (InLv, Martijn Dekker) | Names the dominant baseline; enables neurodiversity contrast. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
+| 1998 | "Neurodiversity" (Judy Singer / Harvey Blume) | Term enters academia and print media. | analysis/research/Paradigms_of_Pluralism_A_Historiography_of_the_Neurodiversity_Movement_and_the_Epistemological_Reframing_of_ADHD.md |
 
 ---
 
@@ -215,7 +215,7 @@ This yields a clear historical picture for 1984: there *was* a nascent clinical 
 Relevant statements, properly sourced, without diagnostic inference.
 
 **Explained in the research set:**  
-`research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md` documents a specific process vocabulary useful for Task 3.3:
+`analysis/research/The_Texture_of_the_Present_A_Comprehensive_Analysis_of_William_Gibsons_Cognitive_Process_Attentional_Economy_and_Creative_Architecture.md` documents a specific process vocabulary useful for Task 3.3:
 - "Internet ablutions" as morning ritual before writing (attention calibration).
 - "Permission to fail" (mowing the lawn) as a cognitive pressure valve.
 - End-stage composition as a “chemically altered state” that must be sustained.
@@ -230,10 +230,10 @@ Use these only as process observations; do not infer diagnosis.
 At least two SF authors analysed for pre-clinical sensing pattern.
 
 **Parallel Case A: Philip K. Dick**  
-`research/The_Exegesis_of_the_Idios_Kosmos_Philip_K_Dick_as_Pre-Clinical_Sensor_of_Neurodivergence_and_Dissociative_Phenomenology.md` provides a full framework for PKD as “pre‑clinical sensor.” The report documents hypergraphia (the *Exegesis*), temporal lobe epilepsy–adjacent phenomenology (pink light, laminar time), dissociation (android metaphor), and split‑brain logic (*A Scanner Darkly*). PKD explicitly frames himself as a “fictionalizing philosopher,” using fiction as a lab for perception; he also identifies with the android figure (“I ought to know. I do the same thing”), a compact statement of dissociative self‑recognition. This supports a clear parallel: SF as a permission structure for articulating experiences before clinical naming.
+`analysis/research/The_Exegesis_of_the_Idios_Kosmos_Philip_K_Dick_as_Pre-Clinical_Sensor_of_Neurodivergence_and_Dissociative_Phenomenology.md` provides a full framework for PKD as “pre‑clinical sensor.” The report documents hypergraphia (the *Exegesis*), temporal lobe epilepsy–adjacent phenomenology (pink light, laminar time), dissociation (android metaphor), and split‑brain logic (*A Scanner Darkly*). PKD explicitly frames himself as a “fictionalizing philosopher,” using fiction as a lab for perception; he also identifies with the android figure (“I ought to know. I do the same thing”), a compact statement of dissociative self‑recognition. This supports a clear parallel: SF as a permission structure for articulating experiences before clinical naming.
 
 **Parallel Case B: Early Neuromancer Criticism**  
-`research/Terminal_Psychologies_The_Construction_of_Consciousness_and_the_Rejection_of_the_Meat_in_the_Critical_Reception_of_Neuromancer_1984-1995.md` shows how early critics reached for postmodern and addiction frameworks to name Case’s phenomenology: “cobra‑like precision” (Maddox), “terminal identity” (Bukatman), “schizophrenic” perpetual present (Jameson), “flickering signifier” (Hayles), and “neuromantic” completion in the digital (Spinrad). This critical history demonstrates a naming gap: the phenomenology was sensed, but there was no stable interface‑dependent cognition vocabulary.
+`analysis/research/Terminal_Psychologies_The_Construction_of_Consciousness_and_the_Rejection_of_the_Meat_in_the_Critical_Reception_of_Neuromancer_1984-1995.md` shows how early critics reached for postmodern and addiction frameworks to name Case’s phenomenology: “cobra‑like precision” (Maddox), “terminal identity” (Bukatman), “schizophrenic” perpetual present (Jameson), “flickering signifier” (Hayles), and “neuromantic” completion in the digital (Spinrad). This critical history demonstrates a naming gap: the phenomenology was sensed, but there was no stable interface‑dependent cognition vocabulary.
 
 ### 6. "Pre-Clinical Sensing" Theoretical Sketch (300-400 words)
 - What is the proposed mechanism?

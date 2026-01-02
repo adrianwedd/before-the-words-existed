@@ -115,9 +115,9 @@ The goal is not to displace Hayles, Bukatman, or media ecology readings. It's to
 ## What's Inside
 
 ```
-/tasks/               8 research tasks with evidence tables
-/research/            5 historiographic deep-dives
-/reviews/             Adversarial peer review simulations
+/analysis/tasks/      8 research tasks with evidence tables
+/analysis/research/   5 historiographic deep-dives
+/analysis/reviews/    Adversarial peer review simulations
 /drafts/              Track B (standalone essay), Track C (academic paper)
 /reference/           DSM-III timeline, methodology, protocols
 /source/              Full Neuromancer text (for evidence checking)
@@ -131,9 +131,9 @@ The goal is not to displace Hayles, Bukatman, or media ecology readings. It's to
 - **`Before-the-Words-Existed.md`** — Standalone essay (for releases)
 - **`drafts/track-b-draft.md`** — Standalone essay draft (Track B)
 - **`drafts/track-c-draft.md`** — Full academic draft (Track C)
-- **`tasks/task-1.1-verify-deprivation-state.md`** — Foundational evidence
-- **`tasks/task-3.3-historical-context.md`** — 1984 vocabulary reconstruction
-- **`research/The_Phenomenology_of_the_Glitch.md`** — ADHD historiography
+- **`analysis/tasks/task-1.1-verify-deprivation-state.md`** — Foundational evidence
+- **`analysis/tasks/task-3.3-historical-context.md`** — 1984 vocabulary reconstruction
+- **`analysis/research/The_Phenomenology_of_the_Glitch.md`** — ADHD historiography
 - **`reference/structure.md`** — Technical documentation & workflow
 - **`reference/methodology.md`** — Epistemological grounding
 
