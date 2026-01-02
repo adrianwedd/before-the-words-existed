@@ -26,3 +26,14 @@ python scripts/render_thesis.py
 
 Notes:
 - Requires `markdown` and `weasyprint` to be installed.
+
+## check_paths.py
+
+Verify that `README.md` and `reference/structure.md` reference the expected
+`analysis/` paths.
+
+Example:
+
+```
+python scripts/check_paths.py
+```
