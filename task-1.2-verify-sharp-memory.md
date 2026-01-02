@@ -122,6 +122,13 @@ Evidence weight: N and FI are strong; D is weaker. The precision discriminant es
 | 1.2-E06 | Ch.1 backstory | "Lived for the bodiless exultation of cyberspace... it was the Fall" | Low | Absent | Warm/Nostalgic | Loose | N | Present | No (complicates) |
 | 1.2-E07 | Ch.1 early | "A year here and he still dreamed of cyberspace, hope fading nightly" | Low | Absent | Warm/Nostalgic | Loose | N | Present | Weak (complicates) |
 | 1.2-E08 | Ch.1 early | "no console man, no cyberspace cowboy" contrasted with hustler life | Medium | Absent | Neutral | Tight | N | Absent | Partial (frames loss as severance) |
+| 1.2-E09 | Ch.2 arena | "Seven days and he'd jack in. If he closed his eyes now, he'd see the matrix." | Medium | Absent | Neutral | Tight | N/FI | Absent | Yes |
+| 1.2-E10 | Ch.4 simstim prep | "Cowboys didn't get into simstim... matrix was a drastic simplification of the human sensorium." | High | Present | Cold/Technical | Tight | FI | Absent | Yes |
+| 1.2-E11 | Ch.2 Armitage meet | "prototypes of the programs... Mole series... first generation of real intrusion programs." | High | Present | Cold/Technical | Tight | D | Absent | Yes (D weaker) |
+| 1.2-E12 | Ch.2 Armitage meet | "Icebreakers... ICE, intrusion countermeasures electronics." | Medium | Present | Cold/Technical | Tight | D | Absent | Yes (D weaker) |
+| 1.2-E13 | Ch.4 post-repair | "I gotta punch deck... Your nervous system would fall out... Eight day wait." | Low | Present | Urgent | Tight | D | Absent | Partial (access urgency) |
+| 1.2-E14 | Ch.2 Armitage meet | "I'm never gonna punch any deck again." | Low | Absent | Resigned | Tight | D | Absent | Partial (severance framing) |
+| 1.2-E15 | Ch.8 (Zion) | "Cyberspace... had no particular relationship to the deck's physical whereabouts... he opened the sky." | High | Present | Cold/Technical | Tight | N | Absent | Yes |
 
 ---
 
@@ -156,6 +163,8 @@ However, the text also uses noir elegy in select lines ("bodiless exultation," "
 
 Degraded-memory alternative: "A year here and he still dreamed of cyberspace, hope fading nightly" can be read as erosion, and "bodiless exultation... the Fall" frames loss in mythic terms. These suggest affective fading but do not show cognitive blurring; no passage indicates that he forgets how the matrix works. Noir nostalgia pattern: elegiac diction ("Fall") and exalted phrasing ("bodiless exultation") do gesture toward a lost Eden. This is real counterweight, but it is intermittent and sits beside operational language. Intoxication memory: the Ninsei chase likens street danger to a matrix run "in some weird and very approximate way," which could echo an addict's recall. Yet the precision of the analogy (data fields, protein-linking) points to system-memory rather than pure sensation. Overall, counter-evidence complicates the tone but does not overturn the procedural-precision claim.
 
+Additional counter-evidence: In the Finn construct sequence, Case says, "I don't have this good a memory," and cannot recall the lines on his palms. This challenges any blanket claim of uniformly sharp memory, suggesting his precision is domain-specific (matrix/interface) rather than general.
+
 ## Implications for Draft
 
 Claims to retain:
@@ -171,6 +180,10 @@ Prose texture claims:
 
 Phantom-limb framing:
 - Defensible, anchored in the reaching-for-console moment and operational verb clusters; note that affect sometimes tilts nostalgic.
+
+## Second-Pass Note
+
+Coverage now includes pre-restoration anticipation, technical self-description, and later procedural explanations. The pattern deepens rather than shifts: memory is precise in operational domains but not globally sharp, which supports a domain-specific sharp-memory claim rather than a universal one.
 
 ## Key Questions to Answer
 
