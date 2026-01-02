@@ -133,6 +133,15 @@ Look for textual evidence that:
 | 2.3-E07 | Ch.5 (Sense/Net) | Identity restored in action | Interact | Narrator | N | "This was it. This was what he was, who he was" | Functional identity via access. |
 | 2.3-E08 | Ch.7 (toxin sacs) | Dependency used as leverage | Ext | Armitage | D | "You need us... like when we scraped you up" | External control of access. |
 | 2.3-E09 | Ch.1 (Fall) | Fall from cyberspace | Interact | Narrator | N | "For Case... it was the Fall" | Access loss as existential drop. |
+| 2.3-E10 | Ch.1 (punishment) | Workability removed | Ext | Narrator | N | "make sure he never worked again" | Punitive denial of access. |
+| 2.3-E11 | Ch.1 (mycotoxin) | Injury caused by others | Ext | Narrator | N | "They damaged his nervous system with a wartime Russian mycotoxin." | External cause, internal effect. |
+| 2.3-E12 | Ch.2 (arena fear) | Still "meat" after failed cure | Int | Narrator | N | "still here, still meat" | Internal bodily framing under fear. |
+| 2.3-E13 | Ch.4 (post-repair) | Too fragile to jack in | Int | Molly | D | "Your nervous system would fall out... if you jacked in now." | Internal limit blocks access. |
+| 2.3-E14 | Ch.5 (Sense/Net target) | Access blocked by system | Ext | Molly | D | "Sense/Net has it locked in a library vault." | External barrier to entry. |
+| 2.3-E15 | Ch.8 (Zion) | Access overrides location | Interact | Case | D | "I jack in and I'm not here. It's all the same." | Fit depends on access state. |
+| 2.3-E16 | Ch.8 (Zion) | Cyberspace decoupled from place | Interact | Narrator | N | "Cyberspace... had no particular relationship with the deck's physical whereabouts." | Environment becomes irrelevant. |
+| 2.3-E17 | Ch.17 (Straylight) | Place misfit | Interact | Narrator | N | "Straylight was all wrong." | Spatial mismatch framing. |
+| 2.3-E18 | Ch.7 (toxin sacs) | Dependency framed medically | Int | Armitage | D | "frees you from a dangerous dependency." | Medical framing layered on control. |
 
 ---
 
@@ -166,9 +175,19 @@ Look for textual evidence that:
 | Environment | What It Affords (to Case) | What It Fails to Afford | Key Passage | Notes |
 |-------------|--------------------------|------------------------|-------------|-------|
 | Chiba City (deprivation) | Hustling survival, drugs | Console access, competence, traction | "no console man... trying to reach the console" | Affords survival only. |
+| Night City (general) | Fast survival protocols | Stable foothold, safety | "Stop hustling and you sank..." | Environment as Darwinist pressure. |
+| Chatsubo bar | Anonymity, contacts | Cultural belonging | "bar for professional expatriates" | Social cover, not home. |
+| Coffin hotel | Containment/sleep | Comfort, embodied ease | "cheapest coffins... hands clawed" | Body as cramped storage. |
 | Matrix (memory) | Clear procedural maps | Embodied action in meatspace | "bright lattices of logic" | Access remembered, not available. |
+| Matrix (Sense/Net) | Work, mapping, traction | Distraction-free living | "patterns formed and reformed... mapped the route" | Affords competence. |
+| Matrix (Straylight) | Approach routes | Immediate entry | "blank wall that screened Straylight" | Access barrier inside matrix. |
 | Matrix (restored access) | Full competence and identity | None noted while jacked in | "This was it... who he was" | Affords being/agency. |
-| Physical world (Molly's domain) | Limited action, observation | Deep competence, "country" | Arena scene vs. matrix identity | Case is secondary. |
+| Simstim (Molly's body) | Sensory immersion | Agency/control | "few frightened seconds... control her body" | Affords experience, denies control. |
+| The Finn's (construct) | Memory access, tools | Stable reality | "This is memory... tap you, sort it out" | Information environment. |
+| Freeside | Leisure/credit access | "hum of biz," meaning | "No hum of biz here, only a glazed sexual tension." | Mismatch in tourist space. |
+| Straylight Villa | Infiltration corridors | Orientation/fit | "Straylight was all wrong." | Place resists legibility. |
+| BAMA/Sprawl | Home identity | Present livability | "Home was BAMA, the Sprawl" | Home as memory anchor. |
+| Construct beach (Neuromancer) | Alternative living | Return/exit | "To live here is to live. There is no difference." | Offers being, not choice. |
 
 ---
 
@@ -204,6 +223,10 @@ Load-bearing passages:
 
 Jargon-light framing:
 - Use "fit," "access," "affordances," and "interface" rather than disability-studies terms.
+
+## Second-Pass Note
+
+Patterns deepened, not shifted. Added external-punitive and interactional entries plus internal-limit reminders, and expanded the affordance map to cover major named environments (Night City, Chatsubo, coffins, Freeside, Straylight, Finn's, simstim, construct beach).
 
 ## Key Questions to Answer
 
