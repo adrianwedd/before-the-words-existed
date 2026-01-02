@@ -4,7 +4,7 @@
 
 This essay argues that *Neuromancer* encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation. The claim is not diagnostic. It is structural: Case's cognition coheres in one interface and collapses in another, and the text renders that shift with procedural precision. In 1984, the language for adult cognitive mismatch was scattered across psychiatry, technostress, and hacker subculture. Gibson does not name the structure; he builds it. The novel renders the matrix as a mode of cognition, not just a setting -- a space where Case's attention finally has traction.
 
-This is a Track C expansion of the Track B essay. It adds historical framing, explicit methodology, a body/embodiment section, a comparative phenomenology section (Case and Molly), a naming-gap genealogy in early criticism, and a parallel case in Philip K. Dick. The core phenomenology remains: deprivation as attritional flattening, sharp memory as domain-specific precision, time as state-dependent, addiction as a separate cycle from access-dependency, and environment as affordance rather than essence.
+It adds historical framing, explicit methodology, a body/embodiment section, a comparative phenomenology section (Case and Molly), a naming-gap genealogy in early criticism, and a parallel case in Philip K. Dick. The core phenomenology remains: deprivation as attritional flattening, sharp memory as domain-specific precision, time as state-dependent, addiction as a separate cycle from access-dependency, and environment as affordance rather than essence.
 
 The approach is deliberately two-layered. Cyberpunk noir supplies atmosphere; mismatch supplies mechanism. The proof is not in a single scene but in reversibility, precision, and relationality across the text. When access returns, agency returns; when access is denied, cognition collapses. The body is not a metaphor; it is a living obstruction when the interface is absent. The essay follows the evidence, names counter-readings, and keeps the lab coat on. The collar is up.
 
@@ -40,29 +40,27 @@ This method explicitly engages secondary literature where it has shaped the fiel
 
 The essay therefore uses two kinds of evidence side by side: direct textual passages from *Neuromancer* and external historical sources that describe the 1980s discourse environment. The former anchors phenomenology; the latter anchors the naming gap. The procedure is iterative: describe a textual pattern, test it against counterexamples, then situate it in the historical and critical record. This keeps the method closer to close reading than to retrospective diagnosis, while still allowing a historical claim about vocabulary and absence.
 
-This structure also anticipates the apparatus that follows in revision: evidence IDs in the draft will be converted to formal citations, and the external sources in the historical framing will be expanded into full references. The present draft keeps the line of argument visible while the citation apparatus is still under construction.
-
 The method has limits by design. It does not claim universality, only coherence. It does not treat every cyberpunk subject as a case study, only those whose phenomenology is rendered with operational precision. The aim is to keep the interpretive risk proportional to the textual evidence.
 
 ## 4. The Phenomenology of Deprivation
 
-The deprivation profile is the engine room of the argument. In Chiba, Case is alert without traction, awake without purpose. The sentences are attritional, full of friction and static. "A year here and he still dreamed of cyberspace, hope fading nightly," and the dreams arrive "like livewire voodoo" (1.1-E01, 1.1-E09). The city's rhythm is reduced to signal without meaning: "Biz here was a constant subliminal hum" (1.1-E04). Motion collapses into futility: "Stop hustling and you sank... move a little too swiftly... either way, you were gone" (1.1-E10). The body is a prison, not a home: "The body was meat. Case fell into the prison of his own flesh" (1.1-E16). This is not just noir mood. It is a severed interface.
+The deprivation profile is the engine room of the argument. In Chiba, Case is alert without traction, awake without purpose. The sentences are attritional, full of friction and static. "A year here and he still dreamed of cyberspace, hope fading nightly," and the dreams arrive "like livewire voodoo" [^1]. The city's rhythm is reduced to signal without meaning: "Biz here was a constant subliminal hum" [^2]. Motion collapses into futility: "Stop hustling and you sank... move a little too swiftly... either way, you were gone" [^3]. The body is a prison, not a home: "The body was meat. Case fell into the prison of his own flesh" [^4]. This is not just noir mood. It is a severed interface.
 
-That severance has procedural shape. Case is "no console man, no cyberspace cowboy" (1.1-E02), and his longing is technical, not mythic: "bright lattices of logic unfolding across that colorless void" (1.2-E01). He wakes "trying to reach the console that wasn't there" (1.2-E02). This is a phantom-limb structure: the mind reaches for a missing interface as if it were still present. The deprivation is not generalized despair; it is a specific loss.
+That severance has procedural shape. Case is "no console man, no cyberspace cowboy" [^5], and his longing is technical, not mythic: "bright lattices of logic unfolding across that colorless void" [^6]. He wakes "trying to reach the console that wasn't there" [^7]. This is a phantom-limb structure: the mind reaches for a missing interface as if it were still present. The deprivation is not generalized despair; it is a specific loss.
 
-Memory sharpens around that loss. Case remembers the matrix as a system, not a sentiment: "penetrate the bright walls... opening windows into rich fields of data" (1.2-E04). He sees the street as "a field of data," mapping protein linkages into cyberspace structure (1.2-E05). The precision is domain-specific. When asked about the lines on his palms, he says, "I don't have this good a memory," underscoring that the sharpness belongs to the interface domain rather than general recall (1.2 counter-evidence). This is a mismatch marker: precision where competence resides, blur elsewhere.
+Memory sharpens around that loss. Case remembers the matrix as a system, not a sentiment: "penetrate the bright walls... opening windows into rich fields of data" [^8]. He sees the street as "a field of data," mapping protein linkages into cyberspace structure [^9]. The precision is domain-specific. When asked about the lines on his palms, he says, "I don't have this good a memory," underscoring that the sharpness belongs to the interface domain rather than general recall [^32]. This is a mismatch marker: precision where competence resides, blur elsewhere.
 
-The simstim comparison makes the domain distinction explicit. Case calls simstim a "meat toy," a gratuitous multiplication of flesh input. Cyberspace, by contrast, is a simplified sensorium with a clear operational grammar (1.2-E10). This difference matters: the matrix is not more sensation, it is the right kind of sensation. It renders a cognitive map he can navigate. The deprivation state is therefore not just sadness; it is the absence of a grammar that his cognition can speak.
+The simstim comparison makes the domain distinction explicit. Case calls simstim a "meat toy," a gratuitous multiplication of flesh input. Cyberspace, by contrast, is a simplified sensorium with a clear operational grammar [^10]. This difference matters: the matrix is not more sensation, it is the right kind of sensation. It renders a cognitive map he can navigate. The deprivation state is therefore not just sadness; it is the absence of a grammar that his cognition can speak.
 
 This is where the precision discriminant does its work. Noir longing is often mythic or nostalgic. Here, longing is procedural. The memory of access is a memory of how a system works, and the system can be re-entered. The longing is not for a person or a lost past; it is for a mode of operation. That procedural structure is hard to explain as mood alone.
 
-Time shifts with state. In deprivation, time accumulates and erodes: "A year here... hope fading nightly," "two-month round of examinations," "first month" of violence (2.1-E01 to E03). The city is a "fast-forward button" (2.1-E04), but acceleration without direction is still stagnation. Restoration is the hinge. The matrix "flowed, flowered... the unfolding of his distanceless home, his country," then snaps into clock time: "He'd been in cyberspace for five hours" (2.1-E08). That paragraph is a switchblade: lyrical expansion, then numeric collapse. In active runs, time compresses into task rhythm: "He lost track of days," "nine straight hours" (2.1-E09, 2.1-E10), with timestamp precision in the Sense/Net operation (2.1-E19 to E22). The simstim switch adds a transition discontinuity: a "two-second warning" and "few frightened seconds" (2.1-E16, 2.1-E17). The texture of time is state-dependent, not atmospheric.
+Time shifts with state. In deprivation, time accumulates and erodes: "A year here... hope fading nightly," "two-month round of examinations," "first month" of violence [^11]. The city is a "fast-forward button" [^12], but acceleration without direction is still stagnation. Restoration is the hinge. The matrix "flowed, flowered... the unfolding of his distanceless home, his country," then snaps into clock time: "He'd been in cyberspace for five hours" [^13]. That paragraph is a switchblade: lyrical expansion, then numeric collapse. In active runs, time compresses into task rhythm: "He lost track of days," "nine straight hours" [^14], with timestamp precision in the Sense/Net operation [^15]. The simstim switch adds a transition discontinuity: a "two-second warning" and "few frightened seconds" [^16]. The texture of time is state-dependent, not atmospheric.
 
 These temporal shifts resonate with contemporary descriptions of time blindness and hyperfocus, but the essay treats that resonance as analogical rather than diagnostic. The text itself is sufficient: time can be granular and precise in action, then diffuse and erosive in deprivation. That oscillation is the phenomenological signature of interface fit.
 
-Reversibility is the hinge that keeps the reading honest. When access returns, Case is not merely relieved; he is coherent. "This was it. This was what he was, who he was" (2.3-E07). The return of the interface does not cure a defect; it reactivates a competence. That is the core mismatch claim: the subject is not transformed by ideology or therapy, but by a change in affordance. Noir can explain the mood; it does not explain why the competence comes back on contact.
+Reversibility is the hinge that keeps the reading honest. When access returns, Case is not merely relieved; he is coherent. "This was it. This was what he was, who he was" [^17]. The return of the interface does not cure a defect; it reactivates a competence. That is the core mismatch claim: the subject is not transformed by ideology or therapy, but by a change in affordance. Noir can explain the mood; it does not explain why the competence comes back on contact.
 
-These patterns are qualified, not absolute. Case shows tactical calculation and future pull even in deprivation (1.1-X01 to X04). Affective flatness is attritional rather than total. The claim is not that Case is hollow; it is that his cognition is misfit in the absence of a specific interface and sharply coherent within it. The deprivation profile, memory precision, and time distortion converge on the same structural fact: access modulates agency.
+These patterns are qualified, not absolute. Case shows tactical calculation and future pull even in deprivation [^18]. Affective flatness is attritional rather than total. The claim is not that Case is hollow; it is that his cognition is misfit in the absence of a specific interface and sharply coherent within it. The deprivation profile, memory precision, and time distortion converge on the same structural fact: access modulates agency.
 
 The counterexamples matter because they prevent the reading from collapsing into a totalized pathology. Case can calculate, infer, and act. Those spikes of competence do not erase deprivation; they illuminate its unevenness. The deprivation state is not a permanent coma of affect. It is a grinding mismatch, punctuated by sharp edges. This is why the essay stresses attrition rather than emptiness. The state is not a flat line, it is a rough signal with intermittent peaks, the kind of signal you would expect when a high-gain system is stuck in the wrong environment.
 
@@ -72,7 +70,7 @@ The simplest reading of Case's contempt for "the meat" is ideological: cyberpunk
 
 Deprivation opens with bodily failure: flat affect, purposeless alertness, and a body reduced to luggage. The language is visceral, but it is not sensuous; it is a catalog of friction. The body becomes a prison, and the prison is not metaphorical. This is a phantom-limb structure: the mind keeps reaching for an interface the body cannot access. That is not ideology; it is an interoceptive mismatch.
 
-The interoceptive markers in the text are blunt and physical: sweat, nausea, exhaustion, cold, pain. Case cannot metabolize time or attention without the matrix; without access he feels heavy, anxious, and dislocated. When the body becomes salient, it is usually through discomfort or vulnerability. Even his occasional hunger is treated as a nuisance rather than pleasure. "Case fell into the prison of his own flesh" and he wakes "trying to reach the console that wasn't there" (1.1-E16, 1.2-E02). This is not a fashionable rejection of the flesh; it is a forced awareness of a body he cannot use for the mode of competence he requires.
+The interoceptive markers in the text are blunt and physical: sweat, nausea, exhaustion, cold, pain. Case cannot metabolize time or attention without the matrix; without access he feels heavy, anxious, and dislocated. When the body becomes salient, it is usually through discomfort or vulnerability. Even his occasional hunger is treated as a nuisance rather than pleasure. "Case fell into the prison of his own flesh" and he wakes "trying to reach the console that wasn't there" [^19]. This is not a fashionable rejection of the flesh; it is a forced awareness of a body he cannot use for the mode of competence he requires.
 
 The restoration scene deepens this: as soon as the interface returns, his body becomes less present. He experiences "bodiless exultation" and later registers the five-hour time loss. The change in bodily salience is immediate and reversible. The body-as-prison is not a stable ideology; it is a state effect. That reversibility supports the mismatch model and weakens a purely ideological reading.
 
@@ -106,15 +104,15 @@ Her modifications underscore that embodiment is not a default but a chosen inter
 
 ## 7. Addiction, Access, Misdescription
 
-Addiction language is present but unevenly distributed. The narrator applies it to Linda and Zone; institutions apply it to Case; Case applies it to himself. Deane praises him as "clean," Armitage warns of "dangerous dependency," and Case says, "I'm a drug addict, Cath" (2.2-E02, 2.2-E04, 2.2-E06). The text does not deny addiction. It distinguishes two dependencies: a real drug cycle and a functional access-need.
+Addiction language is present but unevenly distributed. The narrator applies it to Linda and Zone; institutions apply it to Case; Case applies it to himself. Deane praises him as "clean," Armitage warns of "dangerous dependency," and Case says, "I'm a drug addict, Cath" [^20]. The text does not deny addiction. It distinguishes two dependencies: a real drug cycle and a functional access-need.
 
 That distribution matters. The narrator does not label Case an addict in the way it labels Linda and Zone; institutional voices do. This suggests that "addiction" is a category applied to Case by systems of control rather than a stable narrative diagnosis. Case's self-label complicates this, but it also localizes the addiction to stimulants rather than to the matrix itself. The mismatch reading does not deny drug addiction; it insists on separating it from access-dependency.
 
 Linda and Zone therefore function as narrative controls. The addiction language is unambiguous when it refers to them; it is instrumental and negotiated when it refers to Case. That contrast is not accidental. It allows the novel to acknowledge drug dependency without collapsing the matrix-dependency into the same frame. The distinction is one of structure, not of morality.
 
-The drug cycle is explicit. Case seeks stimulants to "buzz" and "get high" (2.2-E09). He admits preference for "up" even when amphetamines and cocaine no longer work (2.2-E15, 2.2-E18). The betaphenethylamine sequence is pure intoxication: a "white-hot column of light," teeth "sang like tuning forks," bones "chromed and polished," a crystalline rush followed by hangover (2.2-E19, 2.2-E20). This is addiction phenomenology, not metaphor.
+The drug cycle is explicit. Case seeks stimulants to "buzz" and "get high" [^21]. He admits preference for "up" even when amphetamines and cocaine no longer work [^22]. The betaphenethylamine sequence is pure intoxication: a "white-hot column of light," teeth "sang like tuning forks," bones "chromed and polished," a crystalline rush followed by hangover [^23]. This is addiction phenomenology, not metaphor.
 
-Matrix longing, however, has a different structure. It is persistent, procedural, and competence-bound. It does not cycle through intoxication and comedown; it manifests as deprivation and restoration. The restoration scene is mixed: euphoria and tears of release coexist with operational coherence (2.1-E08, 2.2 restoration). That is not a drug high; it is a return to a mode of functioning. The text therefore supports a two-dependency model: drug addiction is real, but access-dependency is distinct.
+Matrix longing, however, has a different structure. It is persistent, procedural, and competence-bound. It does not cycle through intoxication and comedown; it manifests as deprivation and restoration. The restoration scene is mixed: euphoria and tears of release coexist with operational coherence [^24]. That is not a drug high; it is a return to a mode of functioning. The text therefore supports a two-dependency model: drug addiction is real, but access-dependency is distinct.
 
 Institutional addiction language is often instrumental. Armitage's "dangerous dependency" functions as leverage, not as phenomenological description. The misdescription claim is narrow: institutions misname the access-dependency because their frameworks cannot represent a cognitive style that needs a specific interface. The novel itself distinguishes the two dependencies through how it narrates them: the drug scenes are cyclical and hedonic; the matrix scenes are procedural and functional. Conflating them flattens the text.
 
@@ -128,19 +126,19 @@ The two-dependency model can be understood as a double helix in the text: one st
 
 ## 8. Environmental Affordances
 
-The novel oscillates between medical and interactional framings. It states the damage plainly: mycotoxin injury, a nervous system that cannot be repaired (2.3-E01, 2.3-E11). But the functional logic resolves toward access and fit. Case is not broken in general; he is "no console man," reaching for a console that isn't there (2.3-E02, 2.3-E03). When access returns, he becomes himself: "This was it. This was what he was, who he was" (2.3-E07). The punishment is explicitly punitive: it is meant to ensure he never works again (2.3-E10). That is denial of interface, not cure of a defect.
+The novel oscillates between medical and interactional framings. It states the damage plainly: mycotoxin injury, a nervous system that cannot be repaired [^25]. But the functional logic resolves toward access and fit. Case is not broken in general; he is "no console man," reaching for a console that isn't there [^26]. When access returns, he becomes himself: "This was it. This was what he was, who he was" [^27]. The punishment is explicitly punitive: it is meant to ensure he never works again [^28]. That is denial of interface, not cure of a defect.
 
 Affordance, not essence, organizes the environment. Chiba affords survival but denies traction; the coffin hotel affords containment but not coherence. Freeside affords credit and comfort but lacks the "hum of biz," producing glazed mismatch. The matrix affords precision and agency, but access can still be blocked (vaults, screened walls), reminding us that even inside the "right" interface, fit is conditional.
 
-Simstim is the clearest affordance test. It is neither matrix nor meatspace but an interface graft: Case receives enhanced sensation and loses agency. "The abrupt jolt into other flesh. Matrix gone... a few frightened seconds... the passenger behind her eyes" (2.1-E17). Sensory richness does not equal competence. The interface configures the cognition. This is why the argument is not "matrix good / meat bad." It is "which interface affords which cognitive style." The environment is not merely hostile; it is mismatched.
+Simstim is the clearest affordance test. It is neither matrix nor meatspace but an interface graft: Case receives enhanced sensation and loses agency. "The abrupt jolt into other flesh. Matrix gone... a few frightened seconds... the passenger behind her eyes" [^29]. Sensory richness does not equal competence. The interface configures the cognition. This is why the argument is not "matrix good / meat bad." It is "which interface affords which cognitive style." The environment is not merely hostile; it is mismatched.
 
-This relational framing aligns with the Social Model's logic (environment vs. individual) but remains grounded in Gibson's concrete terms: "no console man," "console that wasn't there," "Straylight was all wrong" (2.3-E17). The world denies or grants access, and cognition coheres or fractures accordingly.
+This relational framing aligns with the Social Model's logic (environment vs. individual) but remains grounded in Gibson's concrete terms: "no console man," "console that wasn't there," "Straylight was all wrong" [^30]. The world denies or grants access, and cognition coheres or fractures accordingly.
 
 The interactional framing also avoids a false neutrality. Case's mismatch is not a pure internal essence, but neither is it only a social construction. It is the interface between a nervous system and a set of affordances. The novel shows that both sides matter: mycotoxin damage is real, but so is the possibility of coherent function once access is restored. The world is not merely hostile; it is selectively compatible.
 
 This is why the affordance map matters even when it reads like geography. Straylight is "all wrong" for Case, even after restoration. Zion offers a community but also a scheduling logic that does not align with his absorption. In Freeside, credit and comfort produce a glazed mismatch. These are not atmospheric backdrops; they are cognitive environments. The novel treats place as interface. Where the fit is right, cognition fires; where the fit is wrong, cognition scrapes.
 
-Case's own language names the decoupling. "I jack in and I'm not here. It's all the same" (2.1-E24). The body is present, but attention is elsewhere; the place is experienced as a thin layer over a more compelling interface. This is not a metaphysical claim about escape; it is a phenomenological observation about attention allocation. The interface does not remove him from the world, it reassigns his center of gravity.
+Case's own language names the decoupling. "I jack in and I'm not here. It's all the same" [^31]. The body is present, but attention is elsewhere; the place is experienced as a thin layer over a more compelling interface. This is not a metaphysical claim about escape; it is a phenomenological observation about attention allocation. The interface does not remove him from the world, it reassigns his center of gravity.
 
 The oscillation between medical and interactional frames is therefore not a contradiction; it is the novel's way of holding two truths at once. Damage is real, but the dysfunction is not global. The text repeatedly returns to a specific interface: no console, no cowboy; access returns, self returns. That is a mismatch logic, not a deficit logic.
 
@@ -196,7 +194,7 @@ Finally, there is a risk of romanticizing mismatch as a kind of hidden superpowe
 
 ## 12. Conclusion
 
-*Neuromancer* does not merely depict alienation in neon. It renders a reversible mismatch between cognitive style and environmental affordance. Deprivation is attritional and procedural; memory sharpens where competence resides; time dilates and compresses with state; addiction is real but distinct from access-dependency; environments grant and deny agency. The body is not a metaphor; it is a site of friction when the interface is absent, and a quiet background when access returns. Molly's sensorium proves the argument is relational, not merely personal. The contrast is structural, not decorative. This is the engine of the essay. It is enough to proceed.
+*Neuromancer* does not merely depict alienation in neon. It renders a reversible mismatch between cognitive style and environmental affordance. Deprivation is attritional and procedural; memory sharpens where competence resides; time dilates and compresses with state; addiction is real but distinct from access-dependency; environments grant and deny agency. The body is not a metaphor; it is a site of friction when the interface is absent, and a quiet background when access returns. Molly's sensorium proves the argument is relational, not merely personal. The contrast is structural, not decorative. This is the engine of the essay.
 
 The historical framing tightens the claim. In 1984, ADD existed but adult phenomenology was residual; technostress and information overload externalized the problem; neurodiversity language arrived later. Gibson could not have been writing within a stabilized clinical framework, yet the text preserves the structure anyway. Early critics sensed it and reached for schizophrenia, terminal identity, or gnostic longing. The naming gap is visible.
 
@@ -206,22 +204,57 @@ The implication is not that we should retroactively diagnose every cyberpunk pro
 
 For literary studies, the payoff is a method: treat interface as a cognitive operator, not just a metaphor. For cultural history, the payoff is a timeline: the novel sits between the DSM-III shift and the neurodiversity reframing, preserving an adult phenomenology that had no stable public language. For readers, the payoff is recognition without reduction. The mismatch model is not a cure narrative; it is an interpretive scaffold. The lab coat stays on, the collar stays up, and the text remains the final authority.
 
+## Notes
+
+[^1]: Evidence IDs: 1.1-E01, 1.1-E09
+[^2]: Evidence IDs: 1.1-E04
+[^3]: Evidence IDs: 1.1-E10
+[^4]: Evidence IDs: 1.1-E16
+[^5]: Evidence IDs: 1.1-E02
+[^6]: Evidence IDs: 1.2-E01
+[^7]: Evidence IDs: 1.2-E02
+[^8]: Evidence IDs: 1.2-E04
+[^9]: Evidence IDs: 1.2-E05
+[^10]: Evidence IDs: 1.2-E10
+[^11]: Evidence IDs: 2.1-E01 to E03
+[^12]: Evidence IDs: 2.1-E04
+[^13]: Evidence IDs: 2.1-E08
+[^14]: Evidence IDs: 2.1-E09, 2.1-E10
+[^15]: Evidence IDs: 2.1-E19 to E22
+[^16]: Evidence IDs: 2.1-E16, 2.1-E17
+[^17]: Evidence IDs: 2.3-E07
+[^18]: Evidence IDs: 1.1-X01 to X04
+[^19]: Evidence IDs: 1.1-E16, 1.2-E02
+[^20]: Evidence IDs: 2.2-E02, 2.2-E04, 2.2-E06
+[^21]: Evidence IDs: 2.2-E09
+[^22]: Evidence IDs: 2.2-E15, 2.2-E18
+[^23]: Evidence IDs: 2.2-E19, 2.2-E20
+[^24]: Evidence IDs: 2.1-E08, 2.2 restoration
+[^25]: Evidence IDs: 2.3-E01, 2.3-E11
+[^26]: Evidence IDs: 2.3-E02, 2.3-E03
+[^27]: Evidence IDs: 2.3-E07
+[^28]: Evidence IDs: 2.3-E10
+[^29]: Evidence IDs: 2.1-E17
+[^30]: Evidence IDs: 2.3-E17
+[^31]: Evidence IDs: 2.1-E24
+[^32]: Evidence IDs: 1.2 counter-evidence (palms memory).
+
 ## References (Selected)
 
-- American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders* (DSM-III). 1980.
-- Blume, Harvey. "Neurodiversity." *The Atlantic*. 1998.
-- Brod, Craig. *Technostress: The Human Cost of the Computer Revolution*. 1984.
-- Bukatman, Scott. *Terminal Identity: The Virtual Subject in Postmodern Science Fiction*. 1993.
-- Dick, Philip K. *The Exegesis of Philip K. Dick*. 2011.
-- Gibson, William. *Neuromancer*. 1984.
-- Hartmann, Thom. *Attention Deficit Disorder: A Different Perception*. 1993.
-- Hayles, N. Katherine. *How We Became Posthuman*. 1999.
-- Jameson, Fredric. *Postmodernism, or, The Cultural Logic of Late Capitalism*. 1991.
-- Levy, Steven. *Hackers: Heroes of the Computer Revolution*. 1984.
-- Oliver, Mike. "The social model of disability." 1983.
-- Sinclair, Jim. "Don't Mourn For Us." 1993.
-- Singer, Judy. "Odd People In: The Birth of Community Amongst People on the Autism Spectrum." 1998.
-- Toffler, Alvin. *Future Shock*. 1970.
-- Toffler, Alvin. *The Third Wave*. 1980.
-- Turkle, Sherry. *The Second Self: Computers and the Human Spirit*. 1984.
-- Wender, Paul H., et al. Utah Criteria for Adult ADD. 1980s.
+- American Psychiatric Association. 1980. *Diagnostic and Statistical Manual of Mental Disorders*. 3rd ed. Washington, DC: American Psychiatric Association.
+- Blume, Harvey. 1998. "Neurodiversity." *The Atlantic*. Magazine article.
+- Brod, Craig. 1984. *Technostress: The Human Cost of the Computer Revolution*. Book.
+- Bukatman, Scott. 1993. *Terminal Identity: The Virtual Subject in Postmodern Science Fiction*. Book.
+- Dick, Philip K. 2011. *The Exegesis of Philip K. Dick*. Edited volume.
+- Gibson, William. 1984. *Neuromancer*. Novel.
+- Hartmann, Thom. 1993. *Attention Deficit Disorder: A Different Perception*. Book.
+- Hayles, N. Katherine. 1999. *How We Became Posthuman*. Book.
+- Jameson, Fredric. 1991. *Postmodernism, or, The Cultural Logic of Late Capitalism*. Book.
+- Levy, Steven. 1984. *Hackers: Heroes of the Computer Revolution*. Book.
+- Oliver, Mike. 1983. "The social model of disability." Paper.
+- Sinclair, Jim. 1993. "Don't Mourn For Us." Essay.
+- Singer, Judy. 1998. "Odd People In: The Birth of Community Amongst People on the Autism Spectrum." Honors thesis.
+- Toffler, Alvin. 1970. *Future Shock*. Book.
+- Toffler, Alvin. 1980. *The Third Wave*. Book.
+- Turkle, Sherry. 1984. *The Second Self: Computers and the Human Spirit*. Book.
+- Wender, Paul H., et al. 1980s. Utah Criteria for Adult ADD. Research criteria.
