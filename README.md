@@ -14,13 +14,13 @@
 
 First pass established patterns. Second pass aims for exhaustive coverage.
 
-| Task | First Pass | Target | Priority |
-|------|------------|--------|----------|
-| 1.1 Deprivation | 18 entries | 25-30 | Medium (good base) |
-| 1.2 Sharp Memory | 8 entries | 15-20 | **High (thin)** |
-| 2.1 Time | 15 entries | 25-35 | High |
-| 2.2 Addiction | 9 entries | 12-15 | Low (near-complete) |
-| 2.3 Environment | 9 entries | 18-25 | High |
+| Task | First Pass | Second Pass | Target | Status |
+|------|------------|-------------|--------|--------|
+| 1.1 Deprivation | 18 entries | 25 entries + 4 counter | 25-30 | ✓ Done |
+| 1.2 Sharp Memory | 8 entries | 15 entries + domain counter | 15-20 | ✓ Done |
+| 2.1 Time | 15 entries | — | 25-35 | Pending |
+| 2.2 Addiction | 9 entries | — | 12-15 | Pending |
+| 2.3 Environment | 9 entries | — | 18-25 | Pending |
 
 See `second-pass-trawl-protocol.md` for keyword lists, chapter audits, and methodology.
 
@@ -36,20 +36,29 @@ Each task is designed to be executed independently by a human researcher or LLM 
 
 ## Phase 1 Findings (Validated — Use These)
 
-### Task 1.1: Deprivation State — VERIFIED WITH QUALIFICATIONS
+### Task 1.1: Deprivation State — VERIFIED WITH QUALIFICATIONS (25 entries + 4 counter)
 
 **Core claims validated:**
-- Body-as-luggage: STRONG (E16-E18)
-- Purposeless alertness: STRONG (E07-E09)
-- Tractionlessness: STRONG (E10-E12)
-- Temporal accumulation: STRONG (E13-E15)
+- Body-as-luggage: STRONG (E16-E18, E20, E25)
+- Purposeless alertness: STRONG (E07-E09, E21)
+- Tractionlessness: STRONG (E10-E12, E22)
+- Temporal accumulation: STRONG (E13-E15, E24)
 - World-as-noise: SUPPORTED (E04-E06)
-- Affective flatness: QUALIFIED — "attritional flattening punctuated by spikes," not total numbness
+- Affective flatness: QUALIFIED — "attritional flattening punctuated by spikes," not total numbness (E19, E23 deepen this)
+
+**Second-pass additions (Ch.2, 4, 12, 17):**
+- E19: Later recall affirms long-term flatness ("Numb... He'd been numb a long time")
+- E20-E23: Arena pre-restoration echoes deprivation profile
+- E24: Straylight temporal repetition outside Chiba
+- E25: Simstim body as excess input
 
 **Counterexamples documented (must acknowledge in essay):**
 - 1.1-X01: Tactical calculation about Wage
 - 1.1-X02: Sharp observational inference about sarariman implants
 - 1.1-X03: Decisive action ("Time to see old Julie")
+- 1.1-X04: Future-pull anticipation ("Seven days and he'd jack in")
+
+**Second-pass finding:** Patterns did not shift; they deepened. Later chapters echo the deprivation profile while reinforcing the need to qualify flatness with intermittent future-pull.
 
 **Noir discriminants:**
 - Reversibility: Leans mismatch (deprivation framed as contingent/curable)
@@ -59,24 +68,32 @@ Each task is designed to be executed independently by a human researcher or LLM 
 
 ---
 
-### Task 1.2: Sharp Memory — VERIFIED WITH QUALIFICATIONS
+### Task 1.2: Sharp Memory — VERIFIED WITH QUALIFICATIONS (15 entries)
 
 **Core claims validated:**
-- Memory is procedurally precise: STRONG (E01-E05)
+- Memory is procedurally precise: STRONG (E01-E05, E10-E12, E15)
 - Prose texture tightens for Matrix passages: VERIFIED
 - Phantom-limb structure: DEFENSIBLE ("trying to reach the console that wasn't there")
-- Loss framed as severance, not decay: SUPPORTED
+- Loss framed as severance, not decay: SUPPORTED (E14)
+
+**Second-pass additions (Ch.2, 4, 8):**
+- E09: Pre-restoration anticipation ("Seven days... he'd see the matrix")
+- E10: Technical simstim/matrix comparison
+- E11-E12: Procedural system knowledge (Mole series, icebreakers)
+- E13-E14: Access urgency and severance framing
+- E15: Cyberspace relationship to physical deck (Zion)
+
+**Critical refinement — domain-specific precision:**
+Counter-evidence: "I don't have this good a memory" — Case can't recall the lines on his palms. Memory precision is **domain-specific** (matrix/interface), not globally sharp.
 
 **Qualifications:**
 - Affective tone is mixed, not purely cold
 - Occasional elegiac phrasing ("bodiless exultation," "the Fall") must be acknowledged
 - Distinguish cognitive precision from emotional coldness
 
-**Precision discriminant:** Strong mismatch signal — procedural specificity exceeds noir mood alone.
+**Second-pass finding:** Pattern deepened, not shifted. Memory is precise in operational domains but not globally sharp — supports domain-specific claim rather than universal one.
 
-**Counter-evidence absorbed:**
-- "Hope fading nightly" = affective erosion, not cognitive degradation
-- Elegiac diction ("Fall") = mythic framing layered over operational memory
+**Precision discriminant:** Strong mismatch signal — procedural specificity exceeds noir mood alone.
 
 ---
 
@@ -306,8 +323,8 @@ Phase 1: COMPLETE ✓
 
 | Filename | Status | Description |
 |----------|--------|-------------|
-| `task-1.1-verify-deprivation-state.md` | ✓ COMPLETE | Deprivation phenomenology verified |
-| `task-1.2-verify-sharp-memory.md` | ✓ COMPLETE | Sharp memory/phantom-limb verified |
+| `task-1.1-verify-deprivation-state.md` | ✓ COMPLETE (2nd pass) | Deprivation phenomenology verified |
+| `task-1.2-verify-sharp-memory.md` | ✓ COMPLETE (2nd pass) | Sharp memory/phantom-limb verified |
 | `task-2.1-time-phenomenology.md` | ✓ COMPLETE | Time distortion patterns verified |
 | `task-2.2-addiction-framing.md` | ✓ COMPLETE | Institutional misdescription thesis tested |
 | `task-2.3-environmental-markers.md` | ✓ COMPLETE | Medical vs. interactional framing tested |
@@ -316,7 +333,8 @@ Phase 1: COMPLETE ✓
 | `task-3.3-historical-context.md` | Pending | 1984 absence documentation |
 | `methodological-posture.md` | Reference | Pressure-tested methods statement |
 | `reference/dsm-history-1980.md` | Reference | DSM-III timeline for Task 3.3 |
-| `second-pass-trawl-protocol.md` | **ACTIVE** | Systematic second-pass instructions |
+| `second-pass-trawl-protocol.md` | Reference | Full second-pass methodology |
+| `prompts/` | **ACTIVE** | Task-specific agent prompts for second pass |
 
 ---
 
