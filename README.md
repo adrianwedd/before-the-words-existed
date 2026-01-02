@@ -6,7 +6,7 @@
 
 ## The Recognition
 
-You know that feeling when you read something written forty years ago and it *knows you*? Not in some vague literary-mirror way, but procedurally. The way attention collapses without the right interface. The way time dilates in flow and erodes in deprivation. The phantom-limb reach for a tool that isn't there. The body as static when the mind wants signal.
+You know that feeling when you (re)read something written forty years ago and it *knows you*? Not in some vague literary-mirror way, but procedurally. The way attention collapses without the right interface. The way time dilates in flow and erodes in deprivation. The phantom-limb reach for a tool that isn't there. The body as static when the mind wants signal.
 
 In 1984, William Gibson wrote Case: a console cowboy whose nervous system was poisoned, who "still dreamed of cyberspace, hope fading nightly," whose body became a prison when the matrix was gone. The language for adult cognitive mismatch didn't exist yet—not in common speech. DSM-III had "ADD, Residual Type," a diagnostic leftover. "Neurodiversity" wouldn't be coined until 1998. The hacker ethic was forming but unnamed. Gibson had no clinical vocabulary for what he was encoding.
 
@@ -30,13 +30,13 @@ Case's mind doesn't just *suffer* when cut off from cyberspace—it changes stru
 
 This is not metaphor. It is mechanism.
 
-The claim is structural, not diagnostic. We don't argue Case "has ADHD." We argue the novel renders a testable phenomenological pattern: **cognition that coheres in one environment and collapses in another**, with procedural precision about the interface it needs.
+The claim is structural, not diagnostic. We don't argue Case "has ADHD." We argue the novel renders a testable experiential pattern: **cognition that coheres in one environment and collapses in another**, with procedural precision about the interface it needs.
 
 The proof is in three discriminants that separate mismatch from noir mood:
 
 1. **Reversibility** — Competence returns *immediately* when access is restored. Not aesthetic flash inside futility; qualitative cognitive shift.
 2. **Precision** — Longing for the matrix is procedural, not mythic. Phantom-limb structure: "trying to reach the console that wasn't there."
-3. **Relationality** — Dysfunction is located in the *fit*, not the person. Case isn't broken; he's mismatched. Molly has a different phenomenology, optimized for embodied action. The novel stages a cognitive ecology, not a single pathology.
+3. **Relationality** — Dysfunction is located in the *fit*, not the person. Case isn't broken; he's mismatched. Molly has a different experiential structure, optimized for embodied action. The novel stages a cognitive ecology, not a single pathology.
 
 Noir supplies the atmosphere—political economy, genre affect, existential mood. Mismatch supplies the *mechanism of subjectivity* within that atmosphere. They coexist. The novel does both.
 
@@ -51,20 +51,20 @@ This isn't a vibes-based reading. It's a **structured textual analysis** with ex
 - **Task 1.2** — Sharp memory verified as domain-specific (15 entries)
 
 ### Phase 2: Evidence Gathering (Complete ✓)
-- **Task 2.1** — Time phenomenology mapped across states (28 entries)
-- **Task 2.2** — Addiction framing tested as institutional misdescription (20 entries)
+- **Task 2.1** — Time experience mapped across states (28 entries)
+- **Task 2.2** — Addiction framing tested as institutional conflation (20 entries)
 - **Task 2.3** — Environmental markers: medical vs. interactional models (18 entries + 14 environments)
 
 ### Phase 3: Critical Context (Complete ✓)
 - **Task 3.1** — The body problem: ideology vs. dissociation
-- **Task 3.2** — Case vs. Molly: contrasting phenomenologies
+- **Task 3.2** — Case vs. Molly: contrasting experiential structures
 - **Task 3.3** — Historical context: what language didn't exist in 1984
 
 All evidence is logged with Task IDs, voice-channel tags (Narrator/Free Indirect/Dialogue), chapter citations, and counter-readings. The structure is falsifiable: if deprivation shows stable engagement, if memory degrades, if restoration reads as intoxication, the model fails. It doesn't.
 
 **Research corpus** includes five deep-dive reports on ADHD historiography (1960-1990), neurodiversity timeline, Gibson's creative process, Philip K. Dick as parallel case, and early Neuromancer criticism (1984-1995). Historical framing is anchored in primary sources: DSM-III, Utah Criteria, Brod's *Technostress* (1984), Turkle's *The Second Self* (1984), Levy's *Hackers* (1984).
 
-**Adversarial review**: Simulated hostile peer review from three angles (SF formalist, disability studies skeptic, phenomenology purist) with pre-established defenses.
+**Adversarial review**: Simulated hostile peer review from three angles (SF formalist, disability studies skeptic, method purist) with pre-established defenses.
 
 ---
 
@@ -80,7 +80,7 @@ The vocabulary was scattered:
 
 No unified language. Just fragments.
 
-Gibson gathers the fragments into a *lived phenomenology*. He doesn't name the structure; he renders it in Case's nervous system. The novel is a record of what the era could *feel* but not yet *name*.
+Gibson gathers the fragments into a *lived experiential structure*. He doesn't name the structure; he renders it in Case's nervous system. The novel is a record of what the era could *feel* but not yet *name*.
 
 The later neurodiversity timeline makes the gap legible:
 - 1983: Social Model of Disability formalized (Oliver)
@@ -99,7 +99,7 @@ This is an **experiential-structural reading** anchored in textual evidence. "Mi
 
 **We don't claim neutrality.** The analysis begins from recognition—reading *Neuromancer* and finding something that resonates with contemporary accounts of cognitive mismatch. That recognition is a heuristic, not a conclusion. The discipline lies in *testing*, not erasing, that lens.
 
-Following critical phenomenology (Merleau-Ponty, Ahmed), we treat lived experience as a legitimate point of entry, held accountable to the text. The text can resist. It has explicit opportunities to do so. Every task includes falsification criteria.
+Following critical work on embodiment (Merleau-Ponty, Ahmed), we treat lived experience as a legitimate point of entry, held accountable to the text. The text can resist. It has explicit opportunities to do so. Every task includes falsification criteria.
 
 The structure is iterative:
 1. Describe a textual pattern
@@ -145,7 +145,7 @@ All tasks use consistent evidence logging:
 
 If this holds, it means:
 
-1. **Gibson encoded a cognitive structure before the language existed to name it.** Not through diagnosis, but through phenomenological precision.
+1. **Gibson encoded a cognitive structure before the language existed to name it.** Not through diagnosis, but through experiential precision.
 
 2. **The matrix isn't escapism.** It's the interface where Case's nervous system finds traction. Cyberspace is his *cognitive niche*.
 
@@ -161,7 +161,7 @@ If this holds, it means:
 
 ## For Whom
 
-- **SF scholars** curious whether cyberpunk phenomenology exceeds genre mood
+- **SF scholars** curious whether cyberpunk experience exceeds genre mood
 - **Disability studies / neurodiversity researchers** tracking cognitive difference in fiction before the frameworks existed
 - **Cognitive literary scholars** interested in how novels encode attentional structures
 - **Gibson readers** who felt *recognized* and want to know if the text supports it
