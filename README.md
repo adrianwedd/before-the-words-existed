@@ -4,9 +4,9 @@
 
 **Phase 1: COMPLETE** ✓ (Second pass complete)
 **Phase 2: COMPLETE** ✓ (Second pass complete)
-**Phase 3: Pending (Track C preparation)**
+**Phase 3: COMPLETE** ✓ (Track C preparation complete)
 
-**All second-pass trawls complete. Ready to draft essay.**
+**Track B draft complete. Track C expansion ready.**
 
 ---
 
@@ -97,7 +97,7 @@ Counter-evidence: "I don't have this good a memory" — Case can't recall the li
 
 ---
 
-## Phase 2 Findings (In Progress)
+## Phase 2 Findings (Complete)
 
 ### Task 2.1: Time Phenomenology — VERIFIED WITH QUALIFICATIONS (28 entries)
 
@@ -247,15 +247,17 @@ These can coexist. The claim is not "Neuromancer depicts alienation." The claim 
 | **2.2** | Addiction Framing | Test "institutional misdescription" thesis | Speaker attribution + Experience vs. label mismatch | ✓ COMPLETE |
 | **2.3** | Environmental Markers | Test oscillation between medical/interactional framings | Attribution inventory + Functional logic assessment | ✓ COMPLETE |
 
-**Track B research complete. Ready to draft essay.**
+**Track B research complete. Track C expansion ready.**
 
-### Phase 3: Track C Preparation — PENDING
+### Phase 3: Track C Preparation — COMPLETE ✓
 
 | Task | Title | Purpose | Status |
 |------|-------|---------|--------|
-| **3.1** | The Body Problem | Determine if meat-disdain is ideology or phenomenology | Pending |
-| **3.2** | Case vs. Molly | Compare phenomenologies, test for cognitive diversity | Pending |
-| **3.3** | Historical Context | Document what language didn't exist in 1984 | Can run parallel |
+| **3.1** | The Body Problem | Determine if meat-disdain is ideology or phenomenology | ✓ COMPLETE |
+| **3.2** | Case vs. Molly | Compare phenomenologies, test for cognitive diversity | ✓ COMPLETE |
+| **3.3** | Historical Context | Document what language didn't exist in 1984 | ✓ COMPLETE |
+
+Research corpus is in `research/` (5 reports: ADHD history, neurodiversity timeline, Gibson process, PKD parallel, early criticism).
 
 ---
 
