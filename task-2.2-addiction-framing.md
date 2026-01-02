@@ -127,6 +127,17 @@ This is the critical test. If restoration reads as "getting high," the addiction
 | 2.2-E07 | Ch.10 (Freeside) | "get a fix" | Flatline | Needs records access | D | Neutral | Indirect | "Fix" used for data access. |
 | 2.2-E08 | Ch.12 (Wintermute/Zone) | "addiction" | Narrator | Zone image: "slow undersea grace of his addiction" | N | Descriptive | Indirect | Addiction as motion style. |
 | 2.2-E09 | Ch.10 (Freeside) | "buzz/high" | Case | "I wanna buzz... get high" | D | Hedonic | Supports | Strong addiction-coded desire. |
+| 2.2-E10 | Ch.1 (Chatsubo) | "drug deficiency" | Unknown patron | "body's developed this massive drug deficiency" | D | Ironic | Indirect | Sprawl joke; not about Case. |
+| 2.2-E11 | Ch.5 (Sense/Net) | "severe drug problems" | Narrator | Finn's source described | N | Clinical | Indirect | Addiction attributed to source, not Case. |
+| 2.2-E12 | Ch.8 (Istanbul) | "buy him some drugs" | Molly | Riviera needs drugs to work | D | Pragmatic | Indirect | Drug use framed as functional dependency. |
+| 2.2-E13 | Ch.19 (3Jane) | "drug use... boring" | 3Jane | Dismisses Peter's drug use | D | Moral/elite | Indirect | Institutional disdain. |
+| 2.2-E14 | Ch.21 (beach construct) | "I feel... like a drug" | Case | Sensory distortion in construct | D | Disoriented | Indirect | Metaphoric drug framing. |
+| 2.2-E15 | Ch.2 (post-repair) | "amphetamine or cocaine" | Molly | Case is "incapable of getting off" | D | Clinical | Indirect | Framing shifts drug effects as blocked. |
+| 2.2-E16 | Ch.7 (Istanbul drive) | "cocaine and meperidine" | Armenian | Describes Riviera's mix | D | Clinical | Indirect | Drug use linked to Riviera. |
+| 2.2-E17 | Ch.7 (Istanbul drive) | "speedball artist" | Finn | Characterizes Riviera | D | Moral/ironic | Indirect | Moral framing of drug use. |
+| 2.2-E18 | Ch.11 (Freeside) | "No coke, no amphetamines, but up" | Case | Specifies stimulant preference | D | Hedonic | Supports | Explicit drug-seeking. |
+| 2.2-E19 | Ch.11 (Freeside) | "The drug hit him like an express train..." | Narrator | Betaphenethylamine rush | N | Sensory/intense | Supports | Intoxication phenomenology. |
+| 2.2-E20 | Ch.11 (Freeside) | "betaphenethylamine hangover" | Narrator | Aftereffects noted | N | Clinical | Supports | Consequence/comedown present. |
 
 ---
 
@@ -218,11 +229,19 @@ CLAIM: Case is an addict
 │   ├── Case: "I'm a drug addict, Cath... stimulants" (self-label, Freeside)
 │   ├── Case: "I wanna buzz... get high" (hedonic desire)
 │   ├── Deane/Armitage: "clean" and "dangerous dependency" (institutional framing)
+│   ├── Molly: "buy him some drugs" (Riviera needs drugs to work)
+│   ├── 3Jane: "drug use... boring" (elite moral framing)
+│   ├── Case: "No coke, no amphetamines, but up" (explicit stimulant preference)
+│   ├── Narrator: betaphenethylamine rush/hangover (intoxication + comedown)
 ├── Evidence AGAINST
 │   ├── Case's matrix longing is persistent and functional (console reach, lattices of logic)
 │   ├── Restoration framed as home/fit as much as euphoria ("distanceless home, his country")
 │   ├── No cyclical craving pattern in matrix loss; deprivation is constant
 └── ASSESSMENT: Complicated
+
+## Second-Pass Note
+
+Patterns did not shift; they deepened. New entries add explicit stimulant language (cocaine/amphetamine, betaphenethylamine rush and hangover) and third-party dependence (Riviera), reinforcing that addiction vocabulary is broad but unevenly applied to Case's matrix need.
 
 ## Synthesis (300-400 words)
 
