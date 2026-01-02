@@ -12,6 +12,8 @@ In 1984, William Gibson wrote Case: a console cowboy whose nervous system was po
 
 He built it anyway.
 
+This return trip was triggered by the Apple TV adaptation announcement, and the first-time experience of the *Neuromancer* audiobook while doing the work. Cyberpunk 2077 (300 hours last year) didn’t hurt either. If you want the same vectors: [Apple TV series trailer/announcement](https://www.youtube.com/watch?v=HJBnlZKgeUgv), [audiobook on Spotify](https://open.spotify.com/embed/show/7K6aVf8eqd5zsbIArFuIww), and [Cyberpunk 2077](https://www.cyberpunk.net/).
+
 This repository contains the evidence.
 
 ---
