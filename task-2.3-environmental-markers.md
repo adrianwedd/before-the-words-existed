@@ -124,9 +124,15 @@ Look for textual evidence that:
 
 | ID | Location | What's Attributed | Attribution Type (Int/Ext/Interact) | Who Attributes | Voice (N/FI/D) | Quote/Paraphrase | Notes |
 |----|----------|------------------|-------------------------------------|----------------|----------------|------------------|-------|
-| 2.3-E01 | | | | | | | |
-| 2.3-E02 | | | | | | | |
-| [Add rows as needed] | | | | | | | |
+| 2.3-E01 | Ch.1 (clinic failure) | Damage to nervous system | Int | Narrator | N | "couldn't repair the damage he'd suffered... mycotoxin" | Internal injury acknowledged. |
+| 2.3-E02 | Ch.1 (loss of access) | Locked out of console | Interact | Narrator | N | "trying to reach the console that wasn't there" | Access removed, motor maps intact. |
+| 2.3-E03 | Ch.1 (identity loss) | No longer console man | Interact | Narrator | N | "no console man, no cyberspace cowboy" | Role depends on interface. |
+| 2.3-E04 | Ch.1 (body framing) | Body as prison | Int | Narrator | N | "body was meat... prison of his own flesh" | Medical/internal framing present. |
+| 2.3-E05 | Ch.4 (Armitage offer) | "correct your neural damage" | Int | Armitage | D | Offer framed as repair of Case | Institutional medical frame. |
+| 2.3-E06 | Ch.4 (Molly on clinic) | "fixing you... program... tell them how to do it" | Interact | Molly | D | Repair is procedural access restoration | Emphasis on method, not essence. |
+| 2.3-E07 | Ch.5 (Sense/Net) | Identity restored in action | Interact | Narrator | N | "This was it. This was what he was, who he was" | Functional identity via access. |
+| 2.3-E08 | Ch.7 (toxin sacs) | Dependency used as leverage | Ext | Armitage | D | "You need us... like when we scraped you up" | External control of access. |
+| 2.3-E09 | Ch.1 (Fall) | Fall from cyberspace | Interact | Narrator | N | "For Case... it was the Fall" | Access loss as existential drop. |
 
 ---
 
@@ -134,11 +140,11 @@ Look for textual evidence that:
 
 | Aspect | Evidence | Implication |
 |--------|----------|-------------|
-| What was done to Case | | |
-| Who did it | | |
-| Why (stated reason) | | |
-| How it's described (medical? punitive? both?) | | |
-| What it removed (access? ability? both?) | | |
+| What was done to Case | "damaged his nervous system with a wartime Russian mycotoxin" | Internal injury, targeted. |
+| Who did it | Former employers who he stole from | Punitive enforcement. |
+| Why (stated reason) | "make sure he never worked again" | Compliance control, not care. |
+| How it's described (medical? punitive? both?) | Clinical damage + punitive intent | Mixed framing. |
+| What it removed (access? ability? both?) | Ability to jack in; "no console man" | Interface access removed. |
 
 ---
 
@@ -146,12 +152,12 @@ Look for textual evidence that:
 
 | Aspect | Evidence | Implication |
 |--------|----------|-------------|
-| What was restored | | |
-| Who restored it | | |
-| How it's described (healing? reconnection? both?) | | |
-| What changes in Case | | |
-| What changes in his access | | |
-| Is he "different" after, or "himself again"? | | |
+| What was restored | Neural capacity to jack in | Access restored. |
+| Who restored it | Armitage's clinic team | Institutional resource. |
+| How it's described (healing? reconnection? both?) | "correct your neural damage" + procedural program | Both medical and access framing. |
+| What changes in Case | Returns to "what he was" in matrix work | Identity reactivated. |
+| What changes in his access | Full matrix operation resumes | Environment affords competence. |
+| Is he "different" after, or "himself again"? | "This was it... who he was" | Himself again in function. |
 
 ---
 
@@ -159,13 +165,45 @@ Look for textual evidence that:
 
 | Environment | What It Affords (to Case) | What It Fails to Afford | Key Passage | Notes |
 |-------------|--------------------------|------------------------|-------------|-------|
-| Chiba City (deprivation) | | | | |
-| Matrix (memory) | | | | |
-| Matrix (restored access) | | | | |
-| Physical world (Molly's domain) | | | | |
-| [Add as needed] | | | | |
+| Chiba City (deprivation) | Hustling survival, drugs | Console access, competence, traction | "no console man... trying to reach the console" | Affords survival only. |
+| Matrix (memory) | Clear procedural maps | Embodied action in meatspace | "bright lattices of logic" | Access remembered, not available. |
+| Matrix (restored access) | Full competence and identity | None noted while jacked in | "This was it... who he was" | Affords being/agency. |
+| Physical world (Molly's domain) | Limited action, observation | Deep competence, "country" | Arena scene vs. matrix identity | Case is secondary. |
 
 ---
+
+## Model Assessment (300-400 words)
+
+The text supports a mixed framing, but its functional logic leans interactional. The neural damage is real and repeatedly named as such ("damaged his nervous system," "neural damage"), which anchors the medical model. The narrator describes him as falling into the "prison of his own flesh," and the clinics in Chiba cannot "repair the damage." Those passages cannot be ignored; they supply the internal-deficit frame.
+
+At the same time, Gibson repeatedly frames Case’s problem as access-dependent. The deprivation is described as being a "no console man," and his body is rendered as a prison primarily because it blocks a specific interface. The core imagery is not "he is broken in general," but "he cannot jack in," and that loss of interface produces his collapse. When access is restored, the text emphasizes functional return: "This was it. This was what he was, who he was," and the matrix is called his "distanceless home." The restored state reads like reconnection rather than personality change. In other words, Case does not become a new person; he becomes himself again when the environment affords his mode of action.
+
+The punishment history further supports an interactional reading. His employers did not damage him out of medical necessity; they damaged him "to make sure he never worked again." That is punitive denial of access, not treatment. Armitage later frames repair in medical language, but uses it as leverage ("You need us"). Even the restoration is described as a program that teaches nerve boys "how to do it," which implies a procedural reconnection as much as a cure. The environment changes in practice: access to the matrix, tools, and situations that afford his competence returns.
+
+Overall, the medical model has textual support (real damage, prison-of-flesh language), but the interactional model explains the arc of function and identity. The social model alone is too strong; the environment is hostile, but the key is the fit between Case’s cognitive style and the available interface. The defensible claim is oscillation with a functional resolution toward access.
+
+## Counter-Reading Response
+
+The internal-deficit reading has merit: the mycotoxin injury is real, clinically described, and the narrator does not disguise the bodily damage. The "prison of his own flesh" phrasing is an internalizing metaphor, and the clinic attempts show that he is not merely mis-situated in a neutral world. Where that reading fails is in treating the damage as global. The text repeatedly defines the loss in terms of a specific interface and a specific competence. When that interface is restored, Case's operational self returns without a personality rewrite. The problem is not that he cannot function at all, but that the world no longer affords the mode of functioning he is built for.
+
+## Implications for Section 4 Draft
+
+Claims to make:
+- The text oscillates between medical damage and access-denial framings.
+- Functional logic resolves toward interactional mismatch (fit and access).
+- Restoration reads as reconnection and return-to-self, not a new self.
+
+Claims to qualify:
+- The neural damage is real and must be acknowledged; avoid pure social-model claims.
+- "Environment changed" should be framed as "access restored," not denial of injury.
+
+Load-bearing passages:
+- Mycotoxin damage and "never worked again" (punitive denial of access).
+- "No console man" and "trying to reach the console" (access framing).
+- "This was it... who he was" and "distanceless home" (return-to-self).
+
+Jargon-light framing:
+- Use "fit," "access," "affordances," and "interface" rather than disability-studies terms.
 
 ## Key Questions to Answer
 

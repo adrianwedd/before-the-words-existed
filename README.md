@@ -3,21 +3,10 @@
 ## Project Status
 
 **Phase 1: COMPLETE** ✓
-**Phase 2: READY TO EXECUTE**
+**Phase 2: COMPLETE** ✓
 **Phase 3: Pending (Track C preparation)**
 
----
-
-## ⚠️ CRITICAL INSTRUCTION FOR AGENTS
-
-**DO NOT open the `synthesis-notes/` folder.**
-
-That folder contains pre-formed conclusions that will contaminate your close reading. Execute Phase 2 tasks using only:
-- The novel (*Neuromancer*)
-- The completed Phase 1 findings (below)
-- The task instructions in this folder
-
-The quarantine lifts only after all Phase 2 tasks are complete.
+**Track B research is complete. Ready to draft essay.**
 
 ---
 
@@ -75,6 +64,98 @@ Each task is designed to be executed independently by a human researcher or LLM 
 
 ---
 
+## Phase 2 Findings (In Progress)
+
+### Task 2.1: Time Phenomenology — VERIFIED WITH QUALIFICATIONS
+
+**Core pattern validated:**
+- Deprivation time: Accumulating and erosive (E01-E03, E05)
+- Active/Matrix time: Compressing, absorbed, task-structured (E08-E14)
+- Memory/anticipation: Future-pull present, countdown structure (E06)
+
+**Qualifications:**
+- Deprivation also includes acceleration imagery ("fast-forward button") — not pure stretching
+- Future orientation persists pre-restoration ("Seven days and he'd jack in")
+- Post-restoration time is measured with precision, not just collapsed
+
+**ADHD resonance assessment:**
+- Time blindness: SUPPORTED ("lost track of days," five-hour collapse)
+- Hyperfocus collapse: SUPPORTED (five hours, nine hours, lost days)
+- External structure dependence: SUPPORTED (Molly's deadlines, operational timestamps)
+- Future as unreal: MIXED (fading hope, but countdown shows future-pull returns)
+
+**Key textual evidence:**
+- E08: "He'd been in cyberspace for five hours" — time collapse on return
+- E09: "He lost track of days" — time blindness during sustained work
+- E13: "An hour here'll only take you a couple of seconds" — Matrix time dilation
+
+**Pacing analysis confirmed:** Narrative form encodes temporal phenomenology — long attritional paragraphs in Chiba, compressed summaries during runs, timestamp precision during operations.
+
+---
+
+### Task 2.2: Addiction Framing — SUPPORTED WITH QUALIFICATIONS
+
+**Core thesis tested:** "Addiction operates as institutional misdescription — a label that explains Case to systems that cannot represent functional mismatch."
+
+**Speaker attribution findings:**
+- Narrator uses "addiction" for Linda and Zone — not directly applied to Case
+- Institutional voices (Deane: "clean"; Armitage: "dangerous dependency") use it instrumentally
+- Case self-labels: "I'm a drug addict, Cath... stimulants" (must acknowledge)
+
+**Experience vs. label:**
+- Matrix longing: persistent, functional, phantom-limb structure (deprivation pattern)
+- Stimulant use: cyclical, hedonic, "I wanna buzz... get high" (addiction pattern)
+- **The text distinguishes these two dependencies**
+
+**Restoration scene:**
+- Euphoria present: "flowed, flowered... tears of release"
+- Homecoming present: "distanceless home, his country"
+- Function present: operational coherence, time collapse
+- **Verdict: Mixed** — not purely intoxication, not purely technical return
+
+**Critical evidence to acknowledge:**
+- E06: Case's self-label as drug addict
+- E09: "I wanna buzz... get high" — genuine hedonic drug-seeking
+- E04: Armitage's "dangerous dependency" as institutional leverage
+
+**Assessment:** Institutional misdescription thesis holds for *matrix access* but must acknowledge *real stimulant addiction* as separate pattern. The text supports category conflict, not simple rejection of addiction frame.
+
+---
+
+### Task 2.3: Environmental Markers — VALIDATED WITH OSCILLATION
+
+**Core thesis tested:** "The novel oscillates between medical and interactional framings—but its functional logic resolves in favour of access, not cure."
+
+**Attribution inventory (9 entries):**
+- Internal framing present: "damaged his nervous system," "prison of his own flesh"
+- Interactional framing dominant: "no console man," "trying to reach the console that wasn't there"
+- External framing: punishment was punitive ("make sure he never worked again"), not therapeutic
+
+**Punishment analysis:**
+- What: Mycotoxin damage to nervous system
+- Who: Former employers (punitive, not medical)
+- Why: "to make sure he never worked again" — denial of access as control
+- Framing: Mixed medical/punitive, but logic is access-denial
+
+**Restoration analysis:**
+- What restored: Neural capacity to jack in (access)
+- How framed: "correct your neural damage" (medical) + procedural program (access)
+- What changes: "This was it. This was what he was, who he was" — return to self, not new self
+
+**Affordance map:**
+- Chiba City: Affords survival only; fails to afford competence, traction
+- Matrix (restored): Affords full competence, identity, being
+- Physical world: Case is secondary; Molly's domain
+
+**Model assessment:**
+- Medical model: Has support (real damage acknowledged)
+- Social model: Partial (punishment is punitive denial)
+- Interactional model: **Functional logic resolves here** — problem is fit/access, restoration is reconnection
+
+**Counter-reading absorbed:** Internal-deficit reading has merit (damage is real), but fails because text defines loss as *specific interface*, not *global function*, and restoration reads as return-to-self.
+
+---
+
 ## Methodological Posture
 
 This analysis does not claim perceptual neutrality. It begins from recognition: the experience of reading *Neuromancer* and finding something that resonates with contemporary accounts of cognitive-environment mismatch. This recognition names a point of entry, not a governing explanation.
@@ -116,15 +197,15 @@ These can coexist. The claim is not "Neuromancer depicts alienation." The claim 
 | **1.1** | Verify Deprivation State | ✓ COMPLETE | Validated with qualifications; two-layer model holds |
 | **1.2** | Verify Sharp Memory | ✓ COMPLETE | Phantom-limb structure validated; precision discriminant satisfied |
 
-### Phase 2: Evidence Gathering — READY TO EXECUTE
+### Phase 2: Evidence Gathering — COMPLETE ✓
 
 | Task | Title | Purpose | Key Tests | Status |
 |------|-------|---------|-----------|--------|
-| **2.1** | Time Phenomenology | Map temporal experience shifts across states | Time distortion patterns + ADHD resonance points | Ready |
-| **2.2** | Addiction Framing | Test "institutional misdescription" thesis | Speaker attribution + Experience vs. label mismatch | Ready |
-| **2.3** | Environmental Markers | Test oscillation between medical/interactional framings | Attribution inventory + Functional logic assessment | Ready |
+| **2.1** | Time Phenomenology | Map temporal experience shifts across states | Time distortion patterns + ADHD resonance points | ✓ COMPLETE |
+| **2.2** | Addiction Framing | Test "institutional misdescription" thesis | Speaker attribution + Experience vs. label mismatch | ✓ COMPLETE |
+| **2.3** | Environmental Markers | Test oscillation between medical/interactional framings | Attribution inventory + Functional logic assessment | ✓ COMPLETE |
 
-**Phase 2 tasks can run in parallel.** All depend on Phase 1 findings (above).
+**Track B research complete. Ready to draft essay.**
 
 ### Phase 3: Track C Preparation — PENDING
 
@@ -211,32 +292,22 @@ Phase 1: COMPLETE ✓
 |----------|--------|-------------|
 | `task-1.1-verify-deprivation-state.md` | ✓ COMPLETE | Deprivation phenomenology verified |
 | `task-1.2-verify-sharp-memory.md` | ✓ COMPLETE | Sharp memory/phantom-limb verified |
-| `task-2.1-time-phenomenology.md` | Ready | Time distortion evidence gathering |
-| `task-2.2-addiction-framing.md` | Ready | Institutional misdescription thesis |
-| `task-2.3-environmental-markers.md` | Ready | Medical vs. interactional framing |
+| `task-2.1-time-phenomenology.md` | ✓ COMPLETE | Time distortion patterns verified |
+| `task-2.2-addiction-framing.md` | ✓ COMPLETE | Institutional misdescription thesis tested |
+| `task-2.3-environmental-markers.md` | ✓ COMPLETE | Medical vs. interactional framing tested |
 | `task-3.1-body-problem.md` | Pending | Ideology vs. dissociation |
 | `task-3.2-case-vs-molly.md` | Pending | Contrasting phenomenologies |
 | `task-3.3-historical-context.md` | Pending | 1984 absence documentation |
 | `methodological-posture.md` | Reference | Pressure-tested methods statement |
-| `synthesis-notes/` | ⛔ QUARANTINED | Do NOT open until Phase 2 complete |
+| `reference/dsm-history-1980.md` | Reference | DSM-III timeline for Task 3.3 |
 
 ---
 
-## ⛔ Quarantine Rules
+## Reference Materials
 
-The `synthesis-notes/` folder contains:
+The `reference/` folder contains extracted historical material for later tasks:
 
-1. **cybernetics-wintermute-analysis.md** — Systems theory interpretation
-2. **essay-draft-unverified.md** — Pre-formed essay draft
-
-**These documents will contaminate your evidence gathering.**
-
-They contain conclusions derived from secondary sources, not primary textual verification. Reading them before completing Phase 2 guarantees confirmation bias.
-
-**Quarantine lifts when:**
-- [ ] Task 2.1 complete
-- [ ] Task 2.2 complete
-- [ ] Task 2.3 complete
+- **dsm-history-1980.md** — DSM-III timeline documenting the 1980 diagnostic shift. Use for Task 3.3 (Historical Context). Citations should be verified before final use.
 
 ---
 
