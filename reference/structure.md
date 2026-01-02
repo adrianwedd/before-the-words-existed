@@ -6,8 +6,8 @@ This document contains the technical details, workflow architecture, and evidenc
 
 ## Project Status
 
-**Phase 1: COMPLETE** ✓ (Second pass complete)
-**Phase 2: COMPLETE** ✓ (Second pass complete)
+**Phase 1: COMPLETE** ✓ (Second pass complete)  
+**Phase 2: COMPLETE** ✓ (Second pass complete)  
 **Phase 3: COMPLETE** ✓ (Track C draft complete + hardened)
 
 **Track B draft complete. Track C draft complete and hardened.**
@@ -62,9 +62,12 @@ See `reference/second-pass-trawl-protocol.md` for keyword lists, chapter audits,
 ```
 neuromancer-mismatch/
 ├── README.md                    # Public-facing introduction (poetic/accessible)
-├── STRUCTURE.md                 # This file (technical documentation)
-├── AGENTS.md                    # Research agent specifications
-├── methodological-posture.md    # Epistemological grounding
+├── Before-the-Words-Existed.md  # Release-ready thesis (source)
+│
+├── docs/                        # GitHub Pages site + PDF output
+│   ├── index.html
+│   ├── thesis.html
+│   └── Before-the-Words-Existed.pdf
 │
 ├── tasks/                       # 8 research task files with evidence tables
 │   ├── task-1.1-verify-deprivation-state.md
@@ -76,8 +79,7 @@ neuromancer-mismatch/
 │   ├── task-3.2-case-vs-molly.md
 │   └── task-3.3-historical-context.md
 │
-├── drafts/                      # Final essay versions
-│   ├── Before the Words Existed - Neuromancer and the Experience of Cognitive Mismatch.md
+├── drafts/                      # Essay drafts
 │   ├── track-b-draft.md         # Standalone essay version
 │   └── track-c-draft.md         # Academic paper version
 │
@@ -89,21 +91,22 @@ neuromancer-mismatch/
 │   └── Terminal_Psychologies.md            # Early criticism 1984-1995
 │
 ├── reviews/                     # Adversarial peer review simulations
-│   ├── review-01.md through review-05.md
-│   ├── adversarial-review-analysis-claude.md
-│   └── meta-analysis.md
+│   └── [review files and analyses]
 │
 ├── reference/                   # Supporting documentation
 │   ├── dsm-history-1980.md
-│   └── second-pass-trawl-protocol.md
+│   ├── methodology.md
+│   ├── second-pass-trawl-protocol.md
+│   └── structure.md
 │
 ├── source/                      # Full Neuromancer text
 │   └── Neuromancer.md
 │
-├── prompts/                     # Agent prompts used for research
+├── prompts/                     # Archived research prompts
 │   └── [various .md files]
 │
-└── scripts/                     # Citation verification tools
+└── scripts/                     # Utility scripts
+    ├── render_thesis.py
     └── verify_openlibrary.py
 ```
 
