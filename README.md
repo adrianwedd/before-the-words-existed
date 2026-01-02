@@ -2,25 +2,25 @@
 
 ## Project Status
 
-**Phase 1: COMPLETE** ✓ (First pass — second pass planned)
-**Phase 2: COMPLETE** ✓ (First pass — second pass planned)
+**Phase 1: COMPLETE** ✓ (Second pass complete)
+**Phase 2: COMPLETE** ✓ (Second pass complete)
 **Phase 3: Pending (Track C preparation)**
 
-**Track B research complete. Second-pass trawl in progress for Track C depth.**
+**All second-pass trawls complete. Ready to draft essay.**
 
 ---
 
-## Second Pass: Target Coverage
+## Second Pass: Coverage Summary (Complete)
 
-First pass established patterns. Second pass aims for exhaustive coverage.
+All tasks exceeded targets. Evidence base now suitable for Track C peer review.
 
 | Task | First Pass | Second Pass | Target | Status |
 |------|------------|-------------|--------|--------|
 | 1.1 Deprivation | 18 entries | 25 entries + 4 counter | 25-30 | ✓ Done |
 | 1.2 Sharp Memory | 8 entries | 15 entries + domain counter | 15-20 | ✓ Done |
 | 2.1 Time | 15 entries | 28 entries (TRN gap filled) | 25-35 | ✓ Done |
-| 2.2 Addiction | 9 entries | — | 12-15 | Pending |
-| 2.3 Environment | 9 entries | — | 18-25 | Pending |
+| 2.2 Addiction | 9 entries | 20 entries (substances added) | 12-15 | ✓ Done |
+| 2.3 Environment | 9 entries | 18 entries + 14 environments | 18-25 | ✓ Done |
 
 See `second-pass-trawl-protocol.md` for keyword lists, chapter audits, and methodology.
 
@@ -133,18 +133,26 @@ Counter-evidence: "I don't have this good a memory" — Case can't recall the li
 
 ---
 
-### Task 2.2: Addiction Framing — SUPPORTED WITH QUALIFICATIONS
+### Task 2.2: Addiction Framing — SUPPORTED WITH QUALIFICATIONS (20 entries)
 
 **Core thesis tested:** "Addiction operates as institutional misdescription — a label that explains Case to systems that cannot represent functional mismatch."
 
-**Speaker attribution findings:**
+**Speaker attribution findings (expanded):**
 - Narrator uses "addiction" for Linda and Zone — not directly applied to Case
 - Institutional voices (Deane: "clean"; Armitage: "dangerous dependency") use it instrumentally
 - Case self-labels: "I'm a drug addict, Cath... stimulants" (must acknowledge)
+- Third parties: Riviera characterized as "speedball artist," 3Jane dismisses drug use as "boring"
+
+**Second-pass additions (20 total entries):**
+- E10-E14: Ambient jokes, third-party dependence (Riviera), elite dismissal (3Jane)
+- E15: Molly notes Case "incapable of getting off on amphetamine or cocaine" (blocked effects)
+- E16-E17: Riviera's cocaine/meperidine use, "speedball artist"
+- E18: Case's explicit stimulant preference ("No coke, no amphetamines, but up")
+- E19-E20: **Betaphenethylamine rush + hangover** — actual intoxication/comedown cycle documented
 
 **Experience vs. label:**
 - Matrix longing: persistent, functional, phantom-limb structure (deprivation pattern)
-- Stimulant use: cyclical, hedonic, "I wanna buzz... get high" (addiction pattern)
+- Stimulant use: cyclical, hedonic, with documented comedown (E20) — **addiction pattern confirmed**
 - **The text distinguishes these two dependencies**
 
 **Restoration scene:**
@@ -153,44 +161,38 @@ Counter-evidence: "I don't have this good a memory" — Case can't recall the li
 - Function present: operational coherence, time collapse
 - **Verdict: Mixed** — not purely intoxication, not purely technical return
 
-**Critical evidence to acknowledge:**
-- E06: Case's self-label as drug addict
-- E09: "I wanna buzz... get high" — genuine hedonic drug-seeking
-- E04: Armitage's "dangerous dependency" as institutional leverage
-
-**Assessment:** Institutional misdescription thesis holds for *matrix access* but must acknowledge *real stimulant addiction* as separate pattern. The text supports category conflict, not simple rejection of addiction frame.
+**Second-pass finding:** Patterns deepened, not shifted. Explicit substance language (cocaine, amphetamine, betaphenethylamine) strengthens evidence that Case has *real drug addiction* alongside *distinct functional matrix-access need*. The institutional misdescription thesis holds for matrix access specifically.
 
 ---
 
-### Task 2.3: Environmental Markers — VALIDATED WITH OSCILLATION
+### Task 2.3: Environmental Markers — VALIDATED WITH OSCILLATION (18 entries + 14 environments)
 
 **Core thesis tested:** "The novel oscillates between medical and interactional framings—but its functional logic resolves in favour of access, not cure."
 
-**Attribution inventory (9 entries):**
-- Internal framing present: "damaged his nervous system," "prison of his own flesh"
-- Interactional framing dominant: "no console man," "trying to reach the console that wasn't there"
-- External framing: punishment was punitive ("make sure he never worked again"), not therapeutic
+**Attribution inventory (18 entries):**
+- Internal framing present: "damaged his nervous system," "prison of his own flesh," "still meat" (E12), nervous system fragility (E13)
+- External framing: "make sure he never worked again" (E10), mycotoxin caused by others (E11), "locked in a library vault" (E14)
+- Interactional framing dominant: "no console man," "I jack in and I'm not here" (E15), cyberspace decoupled from location (E16), "Straylight was all wrong" (E17)
 
-**Punishment analysis:**
-- What: Mycotoxin damage to nervous system
-- Who: Former employers (punitive, not medical)
-- Why: "to make sure he never worked again" — denial of access as control
-- Framing: Mixed medical/punitive, but logic is access-denial
+**Second-pass additions (Ch.1, 2, 4, 5, 7, 8, 17):**
+- E10-E11: External punitive denial and cause
+- E12-E13: Internal limits (arena fear, post-repair fragility)
+- E14: External access barrier (Sense/Net vault)
+- E15-E16: Interactional fit and decoupling (Zion)
+- E17: Spatial mismatch (Straylight)
+- E18: Medical framing layered on control (toxin sacs)
 
-**Restoration analysis:**
-- What restored: Neural capacity to jack in (access)
-- How framed: "correct your neural damage" (medical) + procedural program (access)
-- What changes: "This was it. This was what he was, who he was" — return to self, not new self
-
-**Affordance map:**
-- Chiba City: Affords survival only; fails to afford competence, traction
-- Matrix (restored): Affords full competence, identity, being
-- Physical world: Case is secondary; Molly's domain
+**Affordance map expanded (4 → 14 environments):**
+- Meatspace: Chiba City, Night City, Chatsubo, Coffin hotel, Freeside, Straylight Villa, BAMA/Sprawl
+- Matrix: Memory, Sense/Net, Straylight, Restored access
+- Other: Simstim (Molly's body), Finn's construct, Neuromancer's beach
 
 **Model assessment:**
 - Medical model: Has support (real damage acknowledged)
 - Social model: Partial (punishment is punitive denial)
 - Interactional model: **Functional logic resolves here** — problem is fit/access, restoration is reconnection
+
+**Second-pass finding:** Patterns deepened, not shifted. Added external-punitive and interactional entries plus internal-limit reminders. Affordance map now covers all major named environments.
 
 **Counter-reading absorbed:** Internal-deficit reading has merit (damage is real), but fails because text defines loss as *specific interface*, not *global function*, and restoration reads as return-to-self.
 
@@ -333,15 +335,15 @@ Phase 1: COMPLETE ✓
 | `task-1.1-verify-deprivation-state.md` | ✓ COMPLETE (2nd pass) | Deprivation phenomenology verified |
 | `task-1.2-verify-sharp-memory.md` | ✓ COMPLETE (2nd pass) | Sharp memory/phantom-limb verified |
 | `task-2.1-time-phenomenology.md` | ✓ COMPLETE (2nd pass) | Time distortion patterns verified |
-| `task-2.2-addiction-framing.md` | ✓ COMPLETE | Institutional misdescription thesis tested |
-| `task-2.3-environmental-markers.md` | ✓ COMPLETE | Medical vs. interactional framing tested |
+| `task-2.2-addiction-framing.md` | ✓ COMPLETE (2nd pass) | Institutional misdescription thesis tested |
+| `task-2.3-environmental-markers.md` | ✓ COMPLETE (2nd pass) | Medical vs. interactional framing tested |
 | `task-3.1-body-problem.md` | Pending | Ideology vs. dissociation |
 | `task-3.2-case-vs-molly.md` | Pending | Contrasting phenomenologies |
 | `task-3.3-historical-context.md` | Pending | 1984 absence documentation |
 | `methodological-posture.md` | Reference | Pressure-tested methods statement |
 | `reference/dsm-history-1980.md` | Reference | DSM-III timeline for Task 3.3 |
 | `second-pass-trawl-protocol.md` | Reference | Full second-pass methodology |
-| `prompts/` | **ACTIVE** | Task-specific agent prompts for second pass |
+| `prompts/` | Archived | Task-specific agent prompts used for second pass |
 
 ---
 
