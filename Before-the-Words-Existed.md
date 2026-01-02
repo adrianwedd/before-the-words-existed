@@ -2,7 +2,11 @@
 
 Adrian Wedd
 
+![A rainy-night research altar: CRT static, paper clues, and Gibson waiting like a live wire.](docs/images/processed/inline/01-workspace.png)
+
 ## 1. Introduction
+
+![Cognitive itch rendered in coffee rings and tapping fingers under sodium hush.](docs/images/processed/inline/07-introduction-contrast.png)
 
 This essay argues that *Neuromancer* encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation. The claim is not diagnostic. It is structural: Case's cognition coheres in one interface and collapses in another, and the text renders that shift with procedural precision. In 1984, the language for adult cognitive mismatch was scattered across psychiatry, technostress, and hacker subculture. Gibson does not name the structure; he builds it. The novel renders the matrix as a mode of cognition, not just a setting -- a space where Case's attention finally has traction.
 
@@ -11,6 +15,8 @@ The essay adds historical framing, explicit methodology, a body/embodiment secti
 The approach is deliberately two-layered. Cyberpunk noir supplies atmosphere; mismatch supplies mechanism. The proof is not in a single scene but in reversibility, precision, and relationality across the text. When access returns, agency returns; when access is denied, cognition collapses. The body is not a metaphor; it is a living obstruction when the interface is absent. The essay follows the evidence and names counter-readings.
 
 ## 2. Before the Words Existed (Historical Framing)
+
+![The diagnosis sits circled while drafts and data rattle around it like loose screws.](docs/images/processed/inline/09-historical-gap-contrast.png)
 
 1984 is a hinge year. *Neuromancer* appears alongside Craig Brod's *Technostress*, Sherry Turkle's *The Second Self*, and Steven Levy's *Hackers* (Brod 1984; Turkle 1984; Levy 1984). In the same cultural instant, multiple channels are describing the same pressure: minds under load, minds magnetized by machines, minds trying to find a groove inside the speed of the era. Gibson is not alone; he is in resonance with an ambient diagnostic field that does not yet have a stable name. The argument here is not that the novel predicts a future diagnosis, but that it preserves an experience that the era could only describe in fragments.
 
@@ -34,6 +40,8 @@ The historical claim is modest but decisive: the lexicon for adult cognitive mis
 
 ## 3. Methodology
 
+![A detective-board method: pages, index cards, and connections under low lamp light.](docs/images/processed/inline/12-method.png)
+
 This is an experiential-structural reading anchored in textual evidence, not a diagnostic claim. The method treats "mismatch" as a pattern that must appear in the prose itself: reversible shifts in attention, affect, time, and agency correlated with interface access. The reading is falsifiable. If Case's deprivation state shows stable engagement rather than attritional flattening; if memory degrades rather than sharpens in procedural domains; if restoration reads as intoxication rather than homecoming; or if time remains uniform across states, the model fails.
 
 The analysis uses voice-channel tags (Narrator, Free Indirect, Dialogue). This keeps the argument grounded in where the text lives and how it speaks. Three discriminants separate noir mood from mismatch mechanism: **reversibility** (does the state change with access?), **precision** (is longing procedural or mythic?), and **relationality** (is dysfunction located in the person, the world, or the fit?). These are tested across deprivation, memory, time, addiction framing, and environment. Noir and political economy readings can explain atmosphere and motive; the discriminants ask whether they can also explain the procedural return of competence on access. A media-ecological reading (McLuhan's "extensions of the nervous system") can also frame interface dependence without cognitive models; the mismatch model does not replace that frame but operates at a different scale.
@@ -47,6 +55,8 @@ The essay therefore uses two kinds of evidence side by side: direct textual pass
 The method has limits by design. It does not claim universality, only coherence. It does not treat every cyberpunk subject as a case study, only those whose experiential structure is rendered with operational precision. The aim is to keep the interpretive risk proportional to the textual evidence.
 
 ## 4. The Experiential Structure of Deprivation
+
+![Rain-smeared city noise meets a monitor that insists the world is countable.](docs/images/processed/inline/08-thesis-contrast.png)
 
 The deprivation profile is the engine room of the argument. In Chiba, Case is alert without traction, awake without purpose. The sentences are attritional, full of friction and static. "A year here and he still dreamed of cyberspace, hope fading nightly," and the dreams arrive "like livewire voodoo" (Ch. 1). The city's rhythm is reduced to signal without meaning: "Biz here was a constant subliminal hum" (Ch. 1). Motion collapses into futility: "Stop hustling and you sank... move a little too swiftly... either way, you were gone" (Ch. 1). The body is a prison, not a home: "The body was meat. Case fell into the prison of his own flesh" (Ch. 1). This is not just noir mood. It is a severed interface.
 
@@ -69,6 +79,8 @@ These patterns are qualified, not absolute. Case shows tactical calculation and 
 The counterexamples matter because they prevent the reading from collapsing into a totalized pathology. Case can calculate, infer, and act. Those spikes of competence do not erase deprivation; they illuminate its unevenness. The deprivation state is not a permanent coma of affect. It is a grinding mismatch, punctuated by sharp edges. This is why the essay stresses attrition rather than emptiness. The state is not a flat line, it is a rough signal with intermittent peaks, the kind of signal you would expect when a high-gain system is stuck in the wrong environment.
 
 ## 5. The Body Problem: Ideology vs. Dissociation
+
+![A blunt, functional plug-in where the human ends and the signal begins.](docs/images/processed/inline/10-evidence-contrast.png)
 
 The simplest reading of Case's contempt for "the meat" is ideological: cyberpunk's cool refusal of the body. The text complicates that. The body is not only despised; it is experienced as alien, heavy, and in the way. Dissociation is the dominant experiential structure. The insults are symptoms before they are slogans.
 
@@ -107,6 +119,8 @@ The one-way nature of simstim intensifies the contrast. Case can hear her voice 
 Her modifications underscore that embodiment is not a default but a chosen interface. The surgically inset lenses, the retractable blades, the sensory dampening and amplification in her optics: these are not prosthetics that estrange her from the body. They are the body she inhabits. Where Case treats flesh as an obstacle, Molly treats flesh as a platform. The contrast is as much about interface engineering as it is about temperament.
 
 ## 7. Addiction, Access, Conflation
+
+![A tired face meets the green glow: the human-in-the-machine payoff.](docs/images/processed/inline/13-payoff.png)
 
 Addiction language is present but unevenly distributed. The narrator applies it to Linda and Zone; institutions apply it to Case; Case applies it to himself. Deane praises him as "clean," Armitage warns of "dangerous dependency," and Case says, "I'm a drug addict, Cath" (Ch. 10). The text does not deny addiction. It suggests two intertwined dependencies: a real drug cycle and a functional access-need.
 
@@ -203,6 +217,8 @@ Finally, there is a risk of romanticizing mismatch as a kind of hidden superpowe
 
 ## 12. Conclusion
 
+![One figure, one ledge, and a whole orange industrial cosmos exhaling below.](docs/images/processed/inline/11-conclusion-contrast.png)
+
 *Neuromancer* does not merely depict alienation in neon. It renders a reversible mismatch between cognitive style and environmental affordance. Deprivation is attritional and procedural; memory sharpens where competence resides; time dilates and compresses with state; addiction is real but distinct from access-dependency; environments grant and deny agency. The body is not a metaphor; it is a site of friction when the interface is absent, and a quiet background when access returns. Molly's sensorium proves the argument is relational, not merely personal. The contrast is structural, not decorative. This is the engine of the essay.
 
 The historical framing tightens the claim. In 1984, ADD existed but adult experiential profile was residual; technostress and information overload externalized the problem; neurodiversity language arrived later. Gibson could not have been writing within a stabilized clinical framework, yet the text preserves the structure anyway. Early critics sensed it and reached for schizophrenia, terminal identity, or gnostic longing. The critical record shows a scale shift rather than a void.
@@ -212,6 +228,14 @@ This is not a diagnostic thesis. It is a descriptive one: speculative fiction ca
 The implication is not that we should retroactively diagnose every cyberpunk protagonist. It is that we should be attentive to how literature can serve as an archive of experience in periods of lexical absence. In that sense, *Neuromancer* does not only forecast a technological future; it records a cognitive present that was already humming in the circuitry of its moment.
 
 For literary studies, the payoff is a method: treat interface as a cognitive operator, not just a metaphor. For cultural history, the payoff is a timeline: the novel sits between the DSM-III shift and the neurodiversity reframing, preserving an adult experiential profile that had no stable public language. For readers, the payoff is recognition without reduction. The mismatch model is not a cure narrative; it is an interpretive scaffold, and the text remains the final authority.
+
+## Appendix: Visual Artifacts
+
+![Stacks of dot-matrix logs: the weight of the evidence base.](docs/images/processed/inline/14-appendix-a-data-tasks.png)
+
+![Microfiche and archives: historiography under fluorescent hum.](docs/images/processed/inline/15-appendix-b-historiography.png)
+
+![Adversarial notes in red: peer review as pressure test.](docs/images/processed/inline/16-appendix-c-peer-review.png)
 
 ## References (Selected)
 

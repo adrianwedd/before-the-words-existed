@@ -9,6 +9,8 @@ from weasyprint import HTML
 
 def render_html(markdown_path: Path, html_path: Path) -> None:
     src = markdown_path.read_text(encoding="utf-8")
+    # Use docs/images paths in markdown, but rewrite to docs/relative for HTML/PDF.
+    src = src.replace("docs/images/", "images/")
     # Convert markdown into a single HTML body we can wrap with layout + metadata.
     html_body = markdown.markdown(src, extensions=["tables", "fenced_code"])
     description = (
@@ -130,7 +132,10 @@ hr {{ border: none; border-top: 1px solid var(--muted); margin: 2rem 0; }}
 
 def render_pdf(html_path: Path, pdf_path: Path) -> None:
     # Render with full-bleed settings defined in the HTML @page styles.
-    HTML(str(html_path)).write_pdf(str(pdf_path))
+    # Swap inline images for thumbs to keep PDF generation stable.
+    html = html_path.read_text(encoding="utf-8")
+    html = html.replace("images/processed/inline/", "images/processed/thumb/")
+    HTML(string=html, base_url=str(html_path.parent)).write_pdf(str(pdf_path))
 
 
 def main() -> None:
