@@ -339,9 +339,10 @@ Phase 1: COMPLETE ✓
 | `task-2.1-time-phenomenology.md` | ✓ COMPLETE (2nd pass) | Time distortion patterns verified |
 | `task-2.2-addiction-framing.md` | ✓ COMPLETE (2nd pass) | Institutional misdescription thesis tested |
 | `task-2.3-environmental-markers.md` | ✓ COMPLETE (2nd pass) | Medical vs. interactional framing tested |
-| `task-3.1-body-problem.md` | Pending | Ideology vs. dissociation |
-| `task-3.2-case-vs-molly.md` | Pending | Contrasting phenomenologies |
-| `task-3.3-historical-context.md` | Pending | 1984 absence documentation |
+| `task-3.1-body-problem.md` | ✓ COMPLETE | Ideology vs. phenomenology (dissociation dominant) |
+| `task-3.2-case-vs-molly.md` | ✓ COMPLETE | Contrasting phenomenologies (simstim as test) |
+| `task-3.3-historical-context.md` | ✓ COMPLETE | 1984 absence + parallel cases documented |
+| `research/` | Reference | 5 Gemini research reports (ADHD history, Gibson, PKD, criticism, neurodiversity) |
 | `methodological-posture.md` | Reference | Pressure-tested methods statement |
 | `reference/dsm-history-1980.md` | Reference | DSM-III timeline for Task 3.3 |
 | `second-pass-trawl-protocol.md` | Reference | Full second-pass methodology |
