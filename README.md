@@ -119,20 +119,20 @@ The goal is not to displace Hayles, Bukatman, or media ecology readings. It's to
 /research/            5 historiographic deep-dives
 /reviews/             Adversarial peer review simulations
 /drafts/              Track B (standalone essay), Track C (academic paper)
-/reference/           DSM-III timeline, methodology docs
+/reference/           DSM-III timeline, methodology, protocols
 /source/              Full Neuromancer text (for evidence checking)
-
-STRUCTURE.md          Technical details, workflow, standards
-AGENTS.md             Research agent documentation
-methodological-posture.md   Epistemological grounding
+/docs/                GitHub Pages site + technical structure docs
 ```
 
 ### Key Files
 
-- **`Before the Words Existed - Neuromancer and the Experience of Cognitive Mismatch.md`** — Submission-ready essay (Track C)
-- **`task-1.1-verify-deprivation-state.md`** — Foundational evidence for attritional flattening
-- **`task-3.3-historical-context.md`** — 1984 vocabulary reconstruction
-- **`research/The_Phenomenology_of_the_Glitch.md`** — ADHD historiography 1960-1990
+- **`Before-the-Words-Existed.md`** — Standalone essay (for releases)
+- **`drafts/Before the Words Existed...md`** — Full academic version (Track C)
+- **`tasks/task-1.1-verify-deprivation-state.md`** — Foundational evidence
+- **`tasks/task-3.3-historical-context.md`** — 1984 vocabulary reconstruction
+- **`research/The_Phenomenology_of_the_Glitch.md`** — ADHD historiography
+- **`docs/structure.md`** — Technical documentation & workflow
+- **`reference/methodology.md`** — Epistemological grounding
 
 All tasks use consistent evidence logging:
 - **Format**: `[Task]-E[Number]` (e.g., `1.1-E07`, `2.2-E15`)
