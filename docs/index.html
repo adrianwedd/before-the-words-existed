@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Before the Words Existed</title>
+    <meta name="description" content="Gibson encoded cognitive mismatch in 1984, before the vocabulary existed to name it.">
+    <style>
+        :root {
+            --bg: #0a0a0a;
+            --text: #e0e0e0;
+            --accent: #00ff00;
+            --muted: #666;
+            --highlight: #1a1a1a;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Courier New', monospace;
+            line-height: 1.7;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            border-bottom: 1px solid var(--accent);
+            padding-bottom: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            color: var(--accent);
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 300;
+            letter-spacing: -0.02em;
+        }
+
+        .subtitle {
+            color: var(--muted);
+            font-size: 1.2rem;
+            font-style: italic;
+        }
+
+        h2 {
+            color: var(--accent);
+            font-size: 1.5rem;
+            margin: 2rem 0 1rem 0;
+            font-weight: 400;
+        }
+
+        h3 {
+            color: var(--text);
+            font-size: 1.1rem;
+            margin: 1.5rem 0 0.5rem 0;
+            font-weight: 400;
+        }
+
+        p {
+            margin-bottom: 1rem;
+        }
+
+        .recognition {
+            background: var(--highlight);
+            border-left: 3px solid var(--accent);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            font-style: italic;
+        }
+
+        .thesis {
+            font-size: 1.2rem;
+            line-height: 1.8;
+            margin: 2rem 0;
+            padding: 1.5rem;
+            background: var(--highlight);
+            border: 1px solid var(--accent);
+        }
+
+        .thesis strong {
+            color: var(--accent);
+        }
+
+        ul {
+            margin: 1rem 0 1rem 2rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s;
+        }
+
+        a:hover {
+            border-bottom-color: var(--accent);
+        }
+
+        .nav {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .nav-item {
+            background: var(--highlight);
+            border: 1px solid var(--muted);
+            padding: 1.5rem;
+            transition: border-color 0.2s;
+        }
+
+        .nav-item:hover {
+            border-color: var(--accent);
+        }
+
+        .nav-item h3 {
+            margin-top: 0;
+            color: var(--accent);
+        }
+
+        .nav-item p {
+            color: var(--muted);
+            margin: 0;
+            font-size: 0.9rem;
+        }
+
+        .evidence {
+            background: var(--highlight);
+            padding: 1rem;
+            margin: 1rem 0;
+            font-size: 0.9rem;
+        }
+
+        .evidence-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .evidence-item {
+            text-align: center;
+        }
+
+        .evidence-number {
+            font-size: 2rem;
+            color: var(--accent);
+            font-weight: 300;
+        }
+
+        .evidence-label {
+            color: var(--muted);
+            font-size: 0.8rem;
+        }
+
+        footer {
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--muted);
+            color: var(--muted);
+            font-size: 0.9rem;
+            text-align: center;
+        }
+
+        code {
+            background: var(--highlight);
+            padding: 0.2rem 0.4rem;
+            color: var(--accent);
+            font-family: 'Courier New', monospace;
+        }
+
+        blockquote {
+            border-left: 3px solid var(--accent);
+            padding-left: 1.5rem;
+            margin: 2rem 0;
+            font-style: italic;
+            color: var(--muted);
+        }
+
+        .status {
+            display: inline-block;
+            background: var(--accent);
+            color: var(--bg);
+            padding: 0.3rem 0.8rem;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin: 1rem 0;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .evidence-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Before the Words Existed</h1>
+        <p class="subtitle">Neuromancer and the Experience of Cognitive Mismatch</p>
+    </header>
+
+    <main>
+        <div class="recognition">
+            <p>You know that feeling when you read something written forty years ago and it <em>knows you</em>? Not in some vague literary-mirror way, but procedurally. The way attention collapses without the right interface. The way time dilates in flow and erodes in deprivation. The phantom-limb reach for a tool that isn't there. The body as static when the mind wants signal.</p>
+        </div>
+
+        <p>In 1984, William Gibson wrote Case: a console cowboy whose nervous system was poisoned, who "still dreamed of cyberspace, hope fading nightly," whose body became a prison when the matrix was gone. The language for adult cognitive mismatch didn't exist yet—not in common speech. DSM-III had "ADD, Residual Type," a diagnostic leftover. "Neurodiversity" wouldn't be coined until 1998. The hacker ethic was forming but unnamed. Gibson had no clinical vocabulary for what he was encoding.</p>
+
+        <p><strong>He built it anyway.</strong></p>
+
+        <p>This repository contains the evidence.</p>
+
+        <section>
+            <h2>The Thesis</h2>
+            <div class="thesis">
+                <p><strong><em>Neuromancer</em> encodes a reversible, interface-dependent reconfiguration of cognition that exceeds noir alienation.</strong></p>
+            </div>
+
+            <p>Case's mind doesn't just <em>suffer</em> when cut off from cyberspace—it changes structure. Attention flattens. Time stretches and accumulates. Memory stays sharp only in procedural domains (matrix operations, icebreaker specs) but fails elsewhere. The body becomes heavy, alien, wrong. When access returns, competence returns. Not relief—<em>coherence</em>.</p>
+
+            <p><strong>This is not metaphor. It is mechanism.</strong></p>
+        </section>
+
+        <section>
+            <h2>The Evidence</h2>
+            <div class="status">ALL RESEARCH COMPLETE ✓</div>
+
+            <div class="evidence-grid">
+                <div class="evidence-item">
+                    <div class="evidence-number">144+</div>
+                    <div class="evidence-label">Evidence Entries</div>
+                </div>
+                <div class="evidence-item">
+                    <div class="evidence-number">8</div>
+                    <div class="evidence-label">Research Tasks</div>
+                </div>
+                <div class="evidence-item">
+                    <div class="evidence-number">5</div>
+                    <div class="evidence-label">Historical Reports</div>
+                </div>
+            </div>
+
+            <p>This isn't a vibes-based reading. It's a <strong>structured textual analysis</strong> with explicit falsification criteria, systematic evidence logging, adversarial peer review simulation, and historical reconstruction.</p>
+
+            <ul>
+                <li><strong>Deprivation state</strong> — 25 entries + 4 counterexamples</li>
+                <li><strong>Domain-specific memory</strong> — 15 entries documenting procedural precision</li>
+                <li><strong>Time phenomenology</strong> — 28 entries mapping state-dependent distortion</li>
+                <li><strong>Addiction framing</strong> — 20 entries testing institutional misdescription</li>
+                <li><strong>Environmental markers</strong> — 18 entries + 14 environments analyzed</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Navigate the Repository</h2>
+            <div class="nav">
+                <a href="https://github.com/adrianwedd/neuromancer-mismatch" class="nav-item">
+                    <h3>→ Full Repository</h3>
+                    <p>Complete research archive on GitHub</p>
+                </a>
+                <a href="https://github.com/adrianwedd/neuromancer-mismatch/blob/main/drafts/Before%20the%20Words%20Existed%20-%20Neuromancer%20and%20the%20Experience%20of%20Cognitive%20Mismatch.md" class="nav-item">
+                    <h3>→ Read the Essay</h3>
+                    <p>Full academic paper (Track C)</p>
+                </a>
+                <a href="https://github.com/adrianwedd/neuromancer-mismatch/tree/main/tasks" class="nav-item">
+                    <h3>→ Evidence Tables</h3>
+                    <p>8 research tasks with citations</p>
+                </a>
+                <a href="https://github.com/adrianwedd/neuromancer-mismatch/tree/main/research" class="nav-item">
+                    <h3>→ Historical Research</h3>
+                    <p>ADHD historiography, neurodiversity timeline, Gibson's process</p>
+                </a>
+                <a href="https://github.com/adrianwedd/neuromancer-mismatch/blob/main/STRUCTURE.md" class="nav-item">
+                    <h3>→ Technical Docs</h3>
+                    <p>Methods, workflow, architecture</p>
+                </a>
+                <a href="https://github.com/adrianwedd/neuromancer-mismatch/blob/main/methodological-posture.md" class="nav-item">
+                    <h3>→ Methodology</h3>
+                    <p>Epistemological grounding</p>
+                </a>
+            </div>
+        </section>
+
+        <section>
+            <h2>The Historical Gap</h2>
+            <p><strong>1984 is a hinge year.</strong> <em>Neuromancer</em> arrives alongside <em>Technostress</em>, <em>The Second Self</em>, and <em>Hackers</em>—multiple channels describing the same pressure: minds under load, minds magnetized by machines, minds trying to find a groove inside the speed of the era.</p>
+
+            <p>The vocabulary was scattered across incompatible frames:</p>
+            <ul>
+                <li>Clinical: "ADD, Residual Type" (DSM-III, 1980) — adults as diagnostic leftovers</li>
+                <li>Research: Utah Criteria expanded adult symptoms but stayed in enclaves</li>
+                <li>Cultural: "Technostress," "information overload," "burnout"</li>
+                <li>Subcultural: Hacker obsession reframed as mastery, not pathology</li>
+            </ul>
+
+            <p><strong>No unified language. Just fragments.</strong></p>
+
+            <p>The later neurodiversity timeline makes the gap legible:</p>
+            <ul>
+                <li>1983: Social Model of Disability formalized (Oliver)</li>
+                <li>1993: Autism self-advocacy ("Don't Mourn For Us")</li>
+                <li>1996: "Neurotypical" coined</li>
+                <li>1998: "Neurodiversity" enters print (Singer, Blume)</li>
+                <li>~2000: "Neurodivergent" emerges</li>
+            </ul>
+
+            <p>Gibson gathers the fragments into a <em>lived phenomenology</em>. He doesn't name the structure; he renders it in Case's nervous system. The novel is a record of what the era could <em>feel</em> but not yet <em>name</em>.</p>
+        </section>
+
+        <section>
+            <h2>The Payoff</h2>
+            <p>If this holds, it means:</p>
+            <ul>
+                <li><strong>Gibson encoded a cognitive structure before the language existed to name it.</strong> Not through diagnosis, but through phenomenological precision.</li>
+                <li><strong>The matrix isn't escapism.</strong> It's the interface where Case's nervous system finds traction. Cyberspace is his <em>cognitive niche</em>.</li>
+                <li><strong>"The body was meat" isn't just cyberpunk ideology.</strong> It's dissociation rendered as interoceptive mismatch.</li>
+                <li><strong>Case and Molly are cognitive contrasts, not moral ones.</strong> She's optimized for embodied precision; he's optimized for disembodied pattern. The novel stages diversity, not deviation.</li>
+                <li><strong>Speculative fiction can preserve experiences that clinical/cultural vocabularies haven't caught up to yet.</strong> This is "pre-clinical sensing."</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>For Whom</h2>
+            <ul>
+                <li>SF scholars curious whether cyberpunk phenomenology exceeds genre mood</li>
+                <li>Disability studies / neurodiversity researchers tracking cognitive difference in fiction before the frameworks existed</li>
+                <li>Cognitive literary scholars interested in how novels encode attentional structures</li>
+                <li>Gibson readers who felt <em>recognized</em> and want to know if the text supports it</li>
+                <li><strong>Anyone who's ever reached for an interface that wasn't there</strong></li>
+            </ul>
+        </section>
+
+        <blockquote>
+            <p>"He'd operated on an almost permanent adrenaline high, a byproduct of youth and proficiency, jacked into a custom cyberspace deck that projected his disembodied consciousness into the consensual hallucination that was the matrix."</p>
+            <footer>— William Gibson, <em>Neuromancer</em> (1984)</footer>
+        </blockquote>
+
+        <p style="text-align: center; font-size: 1.2rem; margin: 3rem 0;">
+            <strong>The proficiency was real. The mismatch was too.</strong>
+        </p>
+
+        <p style="text-align: center; font-style: italic; color: var(--muted); margin: 2rem 0;">
+            "This is what he was, who he was."
+        </p>
+    </main>
+
+    <footer>
+        <p>Research repository: <a href="https://github.com/adrianwedd/neuromancer-mismatch">github.com/adrianwedd/neuromancer-mismatch</a></p>
+        <p>2026</p>
+    </footer>
+</body>
+</html>
