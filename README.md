@@ -1,12 +1,12 @@
-# Neuromancer ADHD Phenomenology: Research Tasks
+# Neuromancer Cognitive Mismatch: Research Tasks
 
 ## Project Status
 
 **Phase 1: COMPLETE** ✓ (Second pass complete)
 **Phase 2: COMPLETE** ✓ (Second pass complete)
-**Phase 3: COMPLETE** ✓ (Track C preparation complete)
+**Phase 3: COMPLETE** ✓ (Track C draft complete + hardened)
 
-**Track B draft complete. Track C expansion ready.**
+**Track B draft complete. Track C draft complete and hardened.**
 
 ---
 
@@ -28,7 +28,7 @@ See `second-pass-trawl-protocol.md` for keyword lists, chapter audits, and metho
 
 ## Overview
 
-This folder contains eight standalone research tasks supporting the essay project: **"Before the Words Existed: Neuromancer and the Phenomenology of Cognitive Mismatch"**
+This folder contains eight standalone research tasks supporting the essay project: **"Before the Words Existed: Neuromancer and the Experience of Cognitive Mismatch"**
 
 Each task is designed to be executed independently by a human researcher or LLM research agent. Tasks are modular but build cumulatively.
 
@@ -247,7 +247,7 @@ These can coexist. The claim is not "Neuromancer depicts alienation." The claim 
 | **2.2** | Addiction Framing | Test "institutional misdescription" thesis | Speaker attribution + Experience vs. label mismatch | ✓ COMPLETE |
 | **2.3** | Environmental Markers | Test oscillation between medical/interactional framings | Attribution inventory + Functional logic assessment | ✓ COMPLETE |
 
-**Track B research complete. Track C expansion ready.**
+**Track B research complete. Track C draft complete and hardened.**
 
 ### Phase 3: Track C Preparation — COMPLETE ✓
 
@@ -258,6 +258,11 @@ These can coexist. The claim is not "Neuromancer depicts alienation." The claim 
 | **3.3** | Historical Context | Document what language didn't exist in 1984 | ✓ COMPLETE |
 
 Research corpus is in `research/` (5 reports: ADHD history, neurodiversity timeline, Gibson process, PKD parallel, early criticism).
+
+**Current drafts:**
+- `track-b-draft.md`
+- `track-c-draft.md`
+- `Before the Words Existed - Neuromancer and the Experience of Cognitive Mismatch.md` (submission copy)
 
 ---
 
@@ -383,10 +388,11 @@ Tasks are complete only when completion criteria checklist is satisfied.
 ## Related Documents
 
 - `neuromancer-adhd-research-brief.md` — Master research brief (methods spine)
-- Essay drafts (to be created based on research findings)
+- `track-b-draft.md` and `track-c-draft.md`
+- `Before the Words Existed - Neuromancer and the Experience of Cognitive Mismatch.md` (submission copy)
 
 ---
 
 *Framework version: 1.1*
-*Project: Phenomenology of Cognitive Mismatch in Neuromancer*
+*Project: Experience of Cognitive Mismatch in Neuromancer*
 *Phase 1 completed: January 2026*
