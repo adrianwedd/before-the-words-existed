@@ -410,13 +410,18 @@ hr {{
    APPENDICES
    ========================================================== */
 
+/* Reset hanging indent from references */
+.appendix-start ~ p {{
+  padding-left: 0;
+  text-indent: 0;
+  font-size: 10.5pt;
+  line-height: 1.6;
+  text-align: justify;
+}}
+
 .appendix-start ~ h2 {{
   page-break-before: always;
   font-size: 13pt;
-}}
-
-.appendix-start ~ p {{
-  font-size: 10.5pt;
 }}
 
 /* ==========================================================
@@ -434,6 +439,8 @@ hr {{
 }}
 
 .about-page ~ p {{
+  padding-left: 0;
+  text-indent: 0;
   text-align: center;
   font-size: 10.5pt;
   line-height: 1.7;
